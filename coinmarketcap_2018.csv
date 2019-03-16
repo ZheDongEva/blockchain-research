@@ -1,0 +1,664 @@
+rank,name,link,symbol,feixiaohao,volume-usd,website,chat,date,exchangeNumber
+1,Bitcoin,https://coinmarketcap.com/currencies/bitcoin/,BTC,https://www.feixiaohao.com/currencies/bitcoin/,5634430000.0,https://bitcoin.org/,,2008-11-01,174
+2,Ethereum,https://coinmarketcap.com/currencies/ethereum/,ETH,https://www.feixiaohao.com/currencies/ethereum/,2244500000.0,https://www.ethereum.org/,https://gitter.im/orgs/ethereum/rooms,2014-07-24,141
+3,Ripple,https://coinmarketcap.com/currencies/ripple/,XRP,https://www.feixiaohao.com/currencies/ripple/,313400000.0,https://ripple.com/,"https://t.me/Ripple , https://discord.gg/N4x7kPb",2011-04-18,54
+4,Bitcoin Cash,https://coinmarketcap.com/currencies/bitcoin-cash/,BCH,https://www.feixiaohao.com/currencies/bitcoin-cash/,725562000.0,https://www.bitcoincash.org/,,2017-07-24,105
+5,EOS,https://coinmarketcap.com/currencies/eos/,EOS,https://www.feixiaohao.com/currencies/eos/,1528830000.0,https://eos.io/,https://t.me/joinchat/AAAAAEQbOeucnaMWN0A9dQ,2017-07-02,76
+6,Litecoin,https://coinmarketcap.com/currencies/litecoin/,LTC,https://www.feixiaohao.com/currencies/litecoin/,309464000.0,"https://litecoin.com , https://litecoin.org/",https://telegram.me/litecoin,2011-11-09,125
+7,Cardano,https://coinmarketcap.com/currencies/cardano/,ADA,https://www.feixiaohao.com/currencies/cardano/,79383100.0,https://www.cardano.org,https://t.me/CardanoAnnouncements,2017-10-02,12
+8,Stellar,https://coinmarketcap.com/currencies/stellar/,XLM,https://www.feixiaohao.com/currencies/stellar/,26736200.0,https://www.stellar.org,http://slack.stellar.org/,2014-08-01,23
+9,IOTA,https://coinmarketcap.com/currencies/iota/,MIOTA,https://www.feixiaohao.com/currencies/iota/,66072500.0,https://www.iota.org/,https://discord.gg/7Gu2mG5,2017-07-23,8
+10,TRON,https://coinmarketcap.com/currencies/tron/,TRX,https://www.feixiaohao.com/currencies/tron/,302833000.0,https://tron.network/,https://tronfoundation.slack.com,2017-09-14,46
+11,NEO,https://coinmarketcap.com/currencies/neo/,NEO,https://www.feixiaohao.com/currencies/neo/,88291400.0,https://neo.org/,,2014-06-01,32
+12,Dash,https://coinmarketcap.com/currencies/dash/,DASH,https://www.feixiaohao.com/currencies/dash/,195716000.0,https://www.dash.org/,https://discord.gg/9z8zX5j,2014-01-18,61
+13,Monero,https://coinmarketcap.com/currencies/monero/,XMR,https://www.feixiaohao.com/currencies/monero/,41017200.0,http://www.monero.cc,https://telegram.me/bitmonero,2014-04-18,28
+14,NEM,https://coinmarketcap.com/currencies/nem/,XEM,https://www.feixiaohao.com/currencies/nem/,11419600.0,http://nem.io,https://t.me/nemred,2015-04-01,25
+15,Tether,https://coinmarketcap.com/currencies/tether/,USDT,https://www.feixiaohao.com/currencies/tether/,2793680000.0,https://tether.to,,2014-11-26,47
+16,VeChain,https://coinmarketcap.com/currencies/vechain/,VEN,https://www.feixiaohao.com/currencies/vechain/,88319600.0,"https://www.vechain.org/ , https://www.vechain.com/","https://t.me/vechain_official_english , https://t.me/joinchat/GG4BlQwm19czcBGOewv40Q",2017-08-23,25
+17,Ethereum Classic,https://coinmarketcap.com/currencies/ethereum-classic/,ETC,https://www.feixiaohao.com/currencies/ethereum-classic/,156771000.0,https://ethereumclassic.github.io/,https://discord.gg/HW4GckH,2015-11-01,53
+18,Bytecoin,https://coinmarketcap.com/currencies/bytecoin-bcn/,BCN,https://www.feixiaohao.com/currencies/bytecoin-bcn/,28983500.0,https://bytecoin.org/,https://telegram.me/bytecoinchat,2012-07-04,5
+19,ICON,https://coinmarketcap.com/currencies/icon/,ICX,https://www.feixiaohao.com/currencies/icon/,32669400.0,https://www.icon.foundation/,https://t.me/joinchat/Fqw4igkkVmYtj--ZVi-QcA,2017-10-28,17
+20,Binance Coin,https://coinmarketcap.com/currencies/binance-coin/,BNB,https://www.feixiaohao.com/currencies/binance-coin/,43873600.0,https://www.binance.com/,,2017-07-26,5
+21,Qtum,https://coinmarketcap.com/currencies/qtum/,QTUM,https://www.feixiaohao.com/currencies/qtum/,204420000.0,https://qtum.org/,https://t.me/joinchat/D5oBaw29NeOdpw6qqqf2lw,2017-03-16,43
+22,OmiseGO,https://coinmarketcap.com/currencies/omisego/,OMG,https://www.feixiaohao.com/currencies/omisego/,33947100.0,https://omg.omise.co/,"https://telegram.me/omisego , https://omg.omise.co/slack",2017-06-27,55
+23,Zcash,https://coinmarketcap.com/currencies/zcash/,ZEC,https://www.feixiaohao.com/currencies/zcash/,138105000.0,https://z.cash/,,2016-10-28,42
+24,Lisk,https://coinmarketcap.com/currencies/lisk/,LSK,https://www.feixiaohao.com/currencies/lisk/,26073200.0,https://lisk.io/,,2016-05-04,18
+25,Zilliqa,https://coinmarketcap.com/currencies/zilliqa/,ZIL,https://www.feixiaohao.com/currencies/zilliqa/,71818400.0,https://www.zilliqa.com/,https://t.me/zilliqachat,2018-01-26,14
+26,Bitcoin Gold,https://coinmarketcap.com/currencies/bitcoin-gold/,BTG,https://www.feixiaohao.com/currencies/bitcoin-gold/,21958600.0,https://bitcoingold.org/,"https://t.me/BitcoinGoldHQ , https://discord.gg/HmVUU6S",2017-10-24,18
+27,Aeternity,https://coinmarketcap.com/currencies/aeternity/,AE,https://www.feixiaohao.com/currencies/aeternity/,23230100.0,https://www.aeternity.com/,https://telegram.me/aeternity,,23
+28,Verge,https://coinmarketcap.com/currencies/verge/,XVG,https://www.feixiaohao.com/currencies/verge/,18354400.0,http://vergecurrency.com/,"https://t.me/VERGExvg , https://discord.gg/vergecurrency",2014-10-09,14
+29,Ontology,https://coinmarketcap.com/currencies/ontology/,ONT,https://www.feixiaohao.com/currencies/ontology/,53257600.0,https://ont.io/,"https://t.me/OntologyNetwork , https://t.me/OntologyNetworkCN",2018-03-09,0
+30,Nano,https://coinmarketcap.com/currencies/nano/,NANO,https://www.feixiaohao.com/currencies/nano/,4964230.0,"http://nano.org/en , https://raiblocks.net/",,,2
+31,Steem,https://coinmarketcap.com/currencies/steem/,STEEM,https://www.feixiaohao.com/currencies/steem/,5009590.0,"https://steem.io/ , https://steemit.com/",,2016-03-24,7
+32,0x,https://coinmarketcap.com/currencies/0x/,ZRX,https://www.feixiaohao.com/currencies/0x/,16232400.0,https://0xproject.com/,,2017-08-17,29
+33,Decred,https://coinmarketcap.com/currencies/decred/,DCR,https://www.feixiaohao.com/currencies/decred/,9389980.0,"https://www.decred.org/ , https://docs.decred.org/","https://slack.decred.org/ , https://discord.gg/GJ2GXfz",,8
+34,BitShares,https://coinmarketcap.com/currencies/bitshares/,BTS,https://www.feixiaohao.com/currencies/bitshares/,16832500.0,https://bitshares.org,https://t.me/BitSharesDEX,2014-07-19,21
+35,Siacoin,https://coinmarketcap.com/currencies/siacoin/,SC,https://www.feixiaohao.com/currencies/siacoin/,14035800.0,https://sia.tech/,https://discord.gg/sia,2015-07-03,11
+36,Bytom,https://coinmarketcap.com/currencies/bytom/,BTM,https://www.feixiaohao.com/currencies/bytom/,45487400.0,http://bytom.io/,"https://t.me/BytomInternational , https://t.me/bytomchinese",2017-08-09,20
+37,Augur,https://coinmarketcap.com/currencies/augur/,REP,https://www.feixiaohao.com/currencies/augur/,41639400.0,http://www.augur.net/,,2016-10-04,23
+38,Wanchain,https://coinmarketcap.com/currencies/wanchain/,WAN,https://www.feixiaohao.com/currencies/wanchain/,10469700.0,https://wanchain.org/,"https://t.me/WanchainANN , https://t.me/WanchainCHAT",2018-03-24,3
+39,Waves,https://coinmarketcap.com/currencies/waves/,WAVES,https://www.feixiaohao.com/currencies/waves/,25790800.0,https://wavesplatform.com/,"https://telegram.me/wavesnews , http://wavesplatform.herokuapp.com/",2016-05-31,18
+40,Populous,https://coinmarketcap.com/currencies/populous/,PPT,https://www.feixiaohao.com/currencies/populous/,38066500.0,http://populous.co/,"https://bitpopulous.slack.com/ , https://t.me/joinchat/HeQm1Ugjn32zhpJyBza8OA",2017-07-11,11
+41,Stratis,https://coinmarketcap.com/currencies/stratis/,STRAT,https://www.feixiaohao.com/currencies/stratis/,8692220.0,http://stratisplatform.com/,"https://t.me/StratisPlatform , https://discordapp.com/invite/9tDyfZs",2016-08-06,10
+42,Bitcoin Diamond,https://coinmarketcap.com/currencies/bitcoin-diamond/,BCD,https://www.feixiaohao.com/currencies/bitcoin-diamond/,2465250.0,http://btcd.io/,"https://t.me/BCDcommunity , https://bitcoindiamonds.slack.com/",2017-11-25,1
+43,RChain,https://coinmarketcap.com/currencies/rchain/,RHOC,https://www.feixiaohao.com/currencies/rchain/,831804.0,https://www.rchain.coop/,,2017-10-07,5
+44,Maker,https://coinmarketcap.com/currencies/maker/,MKR,https://www.feixiaohao.com/currencies/maker/,68039.7,https://makerdao.com/,,,8
+45,Dogecoin,https://coinmarketcap.com/currencies/dogecoin/,DOGE,https://www.feixiaohao.com/currencies/dogecoin/,14187900.0,http://dogecoin.com/,https://discord.me/dogecoin/,2013-12-12,52
+46,Bitcoin Private,https://coinmarketcap.com/currencies/bitcoin-private/,BTCP,https://www.feixiaohao.com/currencies/bitcoin-private/,576541.0,https://btcprivate.org,https://discord.gg/eGuQQUR,2018-03-11,3
+47,Golem,https://coinmarketcap.com/currencies/golem-network-tokens/,GNT,https://www.feixiaohao.com/currencies/golem-network-tokens/,15401200.0,https://golem.network/,,2016-11-11,26
+48,IOStoken,https://coinmarketcap.com/currencies/iostoken/,IOST,https://www.feixiaohao.com/currencies/iostoken/,42981800.0,http://iost.io/,https://t.me/officialios,2018-01-16,0
+49,DigixDAO,https://coinmarketcap.com/currencies/digixdao/,DGD,https://www.feixiaohao.com/currencies/digixdao/,2928030.0,"https://digix.global/ , https://digix.io",,2016-03-01,12
+50,Status,https://coinmarketcap.com/currencies/status/,SNT,https://www.feixiaohao.com/currencies/status/,33356600.0,http://status.im/,https://chat.status.im/#/register,2017-06-29,31
+51,Hshare,https://coinmarketcap.com/currencies/hshare/,HSR,https://www.feixiaohao.com/currencies/hshare/,43470300.0,https://h.cash/,,2017-08-21,25
+52,DigiByte,https://coinmarketcap.com/currencies/digibyte/,DGB,https://www.feixiaohao.com/currencies/digibyte/,2644840.0,http://www.digibyte.io/,https://t.me/DigiByteCoin,2014-01-14,17
+53,Basic Attention Token,https://coinmarketcap.com/currencies/basic-attention-token/,BAT,https://www.feixiaohao.com/currencies/basic-attention-token/,8334800.0,https://basicattentiontoken.org/,,2017-05-31,17
+54,Aion,https://coinmarketcap.com/currencies/aion/,AION,https://www.feixiaohao.com/currencies/aion/,3730840.0,https://aion.network/,"https://t.me/aion_blockchain , https://discordapp.com/invite/srU4qbS",2017-10-19,7
+55,Waltonchain,https://coinmarketcap.com/currencies/waltonchain/,WTC,https://www.feixiaohao.com/currencies/waltonchain/,6747240.0,http://www.waltonchain.org/,https://t.me/waltonchain_en,,0
+56,Loopring,https://coinmarketcap.com/currencies/loopring/,LRC,https://www.feixiaohao.com/currencies/loopring/,20476500.0,https://loopring.org,https://loopring.rocket.chat/,2017-08-31,20
+57,Mixin,https://coinmarketcap.com/currencies/mixin/,XIN,https://www.feixiaohao.com/currencies/mixin/,611507.0,https://mixin.one/,,2018-01-09,1
+58,Nebulas,https://coinmarketcap.com/currencies/nebulas-token/,NAS,https://www.feixiaohao.com/currencies/nebulas-token/,34297000.0,https://nebulas.io/,https://t.me/nebulasio,,0
+59,Ark,https://coinmarketcap.com/currencies/ark/,ARK,https://www.feixiaohao.com/currencies/ark/,2555210.0,http://ark.io/,https://ark.io/slack,2017-05-24,11
+60,Komodo,https://coinmarketcap.com/currencies/komodo/,KMD,https://www.feixiaohao.com/currencies/komodo/,4366710.0,https://komodoplatform.com/,https://telegram.me/KomodoPlatform_Official,,6
+61,aelf,https://coinmarketcap.com/currencies/aelf/,ELF,https://www.feixiaohao.com/currencies/aelf/,48270600.0,http://aelf.io/,https://t.me/aelfblockchain,2017-12-22,19
+62,Ardor,https://coinmarketcap.com/currencies/ardor/,ARDR,https://www.feixiaohao.com/currencies/ardor/,1323990.0,https://www.ardorplatform.org/,https://nxtplatform.org/slack/,,6
+63,Loom Network,https://coinmarketcap.com/currencies/loom-network/,LOOM,https://www.feixiaohao.com/currencies/loom-network/,8342200.0,https://loomx.io/,https://t.me/loomnetwork,2018-03-15,6
+64,PIVX,https://coinmarketcap.com/currencies/pivx/,PIVX,https://www.feixiaohao.com/currencies/pivx/,2252050.0,http://www.pivx.org,,2016-01-30,10
+65,Dentacoin,https://coinmarketcap.com/currencies/dentacoin/,DCN,https://www.feixiaohao.com/currencies/dentacoin/,322970.0,http://www.dentacoin.com/,https://t.me/dentacoin,2017-08-12,7
+66,KuCoin Shares,https://coinmarketcap.com/currencies/kucoin-shares/,KCS,https://www.feixiaohao.com/currencies/kucoin-shares/,438304.0,https://www.kucoin.com/,,2017-10-25,0
+67,WaykiChain,https://coinmarketcap.com/currencies/waykichain/,WICC,https://www.feixiaohao.com/currencies/waykichain/,13000500.0,"http://waykichain.com/ , http://waykichain.net/",https://t.me/waykichain,2018-01-09,9
+68,Mithril,https://coinmarketcap.com/currencies/mithril/,MITH,https://www.feixiaohao.com/currencies/mithril/,42969700.0,https://mith.io/,https://t.me/mithrilchat,2018-03-25,0
+69,FunFair,https://coinmarketcap.com/currencies/funfair/,FUN,https://www.feixiaohao.com/currencies/funfair/,7622360.0,https://funfair.io/,"https://t.me/FunFair_Official , https://discordapp.com/invite/rwETqSP",2017-06-28,14
+70,Kyber Network,https://coinmarketcap.com/currencies/kyber-network/,KNC,https://www.feixiaohao.com/currencies/kyber-network/,20814000.0,https://kyber.network/,https://t.me/kybernetwork,2017-09-25,20
+71,Polymath,https://coinmarketcap.com/currencies/polymath-network/,POLY,https://www.feixiaohao.com/currencies/polymath-network/,6215940.0,https://www.polymath.network/,https://t.me/PolymathNetwork,2018-02-03,7
+72,Huobi Token,https://coinmarketcap.com/currencies/huobi-token/,HT,https://www.feixiaohao.com/currencies/huobi-token/,121428000.0,https://www.huobi.pro/,,2018-02-04,0
+73,Cortex,https://coinmarketcap.com/currencies/cortex/,CTXC,https://www.feixiaohao.com/currencies/cortex/,75102400.0,http://www.cortexlabs.ai/,https://t.me/CortexBlockchain,2018-04-17,9
+74,Bancor,https://coinmarketcap.com/currencies/bancor/,BNT,https://www.feixiaohao.com/currencies/bancor/,13838600.0,https://bancor.network/,https://telegram.me/bancor,2017-06-13,14
+75,Gas,https://coinmarketcap.com/currencies/gas/,GAS,https://www.feixiaohao.com/currencies/gas/,5306960.0,https://neo.org/,,,12
+76,Elastos,https://coinmarketcap.com/currencies/elastos/,ELA,https://www.feixiaohao.com/currencies/elastos/,13643700.0,https://www.elastos.org/,"https://t.me/elastosgroup , https://elastos.slack.com/",2018-02-01,2
+77,Fusion,https://coinmarketcap.com/currencies/fusion/,FSN,https://www.feixiaohao.com/currencies/fusion/,7150750.0,https://fusion.org/,https://t.me/FUSIONFoundation,2018-02-17,5
+78,Syscoin,https://coinmarketcap.com/currencies/syscoin/,SYS,https://www.feixiaohao.com/currencies/syscoin/,24353900.0,http://syscoin.org,https://t.me/joinchat/AAAAAEHzByog3h1qutnjhQ,2014-08-16,9
+79,ReddCoin,https://coinmarketcap.com/currencies/reddcoin/,RDD,https://www.feixiaohao.com/currencies/reddcoin/,6544150.0,http://www.reddcoin.com/,,2014-02-02,7
+80,GXChain,https://coinmarketcap.com/currencies/gxchain/,GXS,https://www.feixiaohao.com/currencies/gxchain/,14198700.0,https://gxs.gxb.io/,https://t.me/GXB_International,,0
+81,Cryptonex,https://coinmarketcap.com/currencies/cryptonex/,CNX,https://www.feixiaohao.com/currencies/cryptonex/,1635780.0,https://cryptonex.org/,,2017-10-08,2
+82,Ethos,https://coinmarketcap.com/currencies/ethos/,ETHOS,https://www.feixiaohao.com/currencies/ethos/,6109990.0,https://www.ethos.io/,,,0
+83,Skycoin,https://coinmarketcap.com/currencies/skycoin/,SKY,https://www.feixiaohao.com/currencies/skycoin/,1853990.0,http://skycoin.net/,,,4
+84,MonaCoin,https://coinmarketcap.com/currencies/monacoin/,MONA,https://www.feixiaohao.com/currencies/monacoin/,2385300.0,http://monacoin.org,,2013-12-01,9
+85,Dragonchain,https://coinmarketcap.com/currencies/dragonchain/,DRGN,https://www.feixiaohao.com/currencies/dragonchain/,2929510.0,https://dragonchain.com/,https://t.me/dragontalk,2017-12-04,9
+86,Substratum,https://coinmarketcap.com/currencies/substratum/,SUB,https://www.feixiaohao.com/currencies/substratum/,5105430.0,https://substratum.net/,https://t.me/SubstratumCommunity,2017-09-26,8
+87,QASH,https://coinmarketcap.com/currencies/qash/,QASH,https://www.feixiaohao.com/currencies/qash/,1881720.0,https://liquid.plus/,https://t.me/QUOINE,2017-11-22,10
+88,CyberMiles,https://coinmarketcap.com/currencies/cybermiles/,CMT,https://www.feixiaohao.com/currencies/cybermiles/,84987200.0,https://www.cybermiles.io/,https://t.me/cybermilestoken,2017-12-07,8
+89,Veritaseum,https://coinmarketcap.com/currencies/veritaseum/,VERI,https://www.feixiaohao.com/currencies/veritaseum/,575356.0,http://veritas.veritaseum.com/,,,3
+90,Matrix AI Network,https://coinmarketcap.com/currencies/matrix-ai-network/,MAN,https://www.feixiaohao.com/currencies/matrix-ai-network/,2181790.0,https://www.matrixchain.io/,https://t.me/matrixainetwork,2018-01-28,10
+91,Storm,https://coinmarketcap.com/currencies/storm/,STORM,https://www.feixiaohao.com/currencies/storm/,42528100.0,https://stormtoken.com/,https://t.me/joinchat/GHTZGQwsy9mZk0KFEEjGtg,2017-12-21,8
+92,Centrality,https://coinmarketcap.com/currencies/centrality/,CENNZ,https://www.feixiaohao.com/currencies/centrality/,248298.0,https://www.centrality.ai/,,2018-03-14,1
+93,Enigma,https://coinmarketcap.com/currencies/enigma-project/,ENG,https://www.feixiaohao.com/currencies/enigma-project/,5361330.0,https://enigma.co/,"https://t.me/enigmacatalyst , https://discord.gg/SJK32GY",2017-10-14,12
+94,Kin,https://coinmarketcap.com/currencies/kin/,KIN,https://www.feixiaohao.com/currencies/kin/,1665060.0,"http://kinecosystem.org/ , https://kin.kik.com",https://t.me/kincurrency,2017-09-28,10
+95,ZCoin,https://coinmarketcap.com/currencies/zcoin/,XZC,https://www.feixiaohao.com/currencies/zcoin/,1232120.0,https://zcoin.io,https://discordapp.com/invite/4FjnQ2q,2016-09-01,10
+96,iExec RLC,https://coinmarketcap.com/currencies/rlc/,RLC,https://www.feixiaohao.com/currencies/rlc/,42608200.0,http://iex.ec/,https://slack.iex.ec/,2017-04-19,12
+97,SALT,https://coinmarketcap.com/currencies/salt/,SALT,https://www.feixiaohao.com/currencies/salt/,5535750.0,https://www.saltlending.com/,"https://t.me/SALTLendingDiscussion , https://discordapp.com/invite/4S9eFBK",2017-09-30,10
+98,Gifto,https://coinmarketcap.com/currencies/gifto/,GTO,https://www.feixiaohao.com/currencies/gifto/,16663200.0,https://gifto.io/,"https://t.me/GIFTOOfficial , https://open.kakao.com/o/ggLQMiC",2017-12-19,10
+99,ChainLink,https://coinmarketcap.com/currencies/chainlink/,LINK,https://www.feixiaohao.com/currencies/chainlink/,1163230.0,https://smartcontract.com/,,2017-09-21,10
+100,Nxt,https://coinmarketcap.com/currencies/nxt/,NXT,https://www.feixiaohao.com/currencies/nxt/,2763380.0,https://nxt.org/,https://t.me/NXTCommunity,2013-11-24,11
+101,WAX,https://coinmarketcap.com/currencies/wax/,WAX,https://www.feixiaohao.com/currencies/wax/,5995210.0,https://wax.io/,"https://t.me/wax_io , https://t.me/waxtokenannoucements",2017-12-22,13
+102,Nuls,https://coinmarketcap.com/currencies/nuls/,NULS,https://www.feixiaohao.com/currencies/nuls/,7572550.0,https://nuls.io/,"https://t.me/Nulsio , https://join.slack.com/t/nuls/shared_invite/enQtMjQ4MTM4ODAyNTI4LWJjNGMwYTE0YjRlYmFlZGUwM2JhOGE4MDIwZmE4MzA2MDg1YzUyMmVkN2RhZjkyNWMzZjY5ZDU5ZmViMjZjNGQ",2017-10-26,10
+103,Power Ledger,https://coinmarketcap.com/currencies/power-ledger/,POWR,https://www.feixiaohao.com/currencies/power-ledger/,9437570.0,https://powerledger.io/,https://t.me/joinchat/Gop-90DIMiPF7N_EtvFzjA,2017-11-02,11
+104,Electroneum,https://coinmarketcap.com/currencies/electroneum/,ETN,https://www.feixiaohao.com/currencies/electroneum/,712178.0,http://electroneum.com/,https://t.me/joinchat/DxoSakHOdk5mqsE-LelfVg,2017-11-03,3
+105,Neblio,https://coinmarketcap.com/currencies/neblio/,NEBL,https://www.feixiaohao.com/currencies/neblio/,8568100.0,https://nebl.io/,https://t.me/joinchat/GFVgz0G-oVXOIJGfFYD-vg,2017-09-13,6
+106,Monaco,https://coinmarketcap.com/currencies/monaco/,MCO,https://www.feixiaohao.com/currencies/monaco/,24027300.0,https://www.mona.co/,https://t.me/MonacoCard,2017-07-04,19
+107,Revain,https://coinmarketcap.com/currencies/revain/,R,https://www.feixiaohao.com/currencies/revain/,2823160.0,https://revain.org/,https://t.me/joinchat/CzZcC0PCgpJcbBCb3JfNeQ,2017-11-02,9
+108,Factom,https://coinmarketcap.com/currencies/factom/,FCT,https://www.feixiaohao.com/currencies/factom/,952500.0,http://factom.org/,,2015-09-05,6
+109,MaidSafeCoin,https://coinmarketcap.com/currencies/maidsafecoin/,MAID,https://www.feixiaohao.com/currencies/maidsafecoin/,1258890.0,http://maidsafe.net,,2006-02-03,4
+110,BnkToTheFuture,https://coinmarketcap.com/currencies/bnktothefuture/,BFT,https://www.feixiaohao.com/currencies/bnktothefuture/,3808900.0,https://bf-token.bnktothefuture.com/#!/,https://t.me/bf_token,2018-03-23,4
+111,DeepBrain Chain,https://coinmarketcap.com/currencies/deepbrain-chain/,DBC,https://www.feixiaohao.com/currencies/deepbrain-chain/,8263050.0,https://www.deepbrainchain.org/,http://t.me/deepbrainchain,2017-12-29,5
+112,TenX,https://coinmarketcap.com/currencies/tenx/,PAY,https://www.feixiaohao.com/currencies/tenx/,9407980.0,https://www.tenx.tech/,,2017-07-27,21
+113,All Sports,https://coinmarketcap.com/currencies/all-sports/,SOC,https://www.feixiaohao.com/currencies/all-sports/,26059400.0,https://www.allsportschain.com/,https://t.me/allsportschain,,0
+114,Paypex,https://coinmarketcap.com/currencies/paypex/,PAYX,https://www.feixiaohao.com/currencies/paypex/,17243.6,https://paypex.org/,"https://t.me/paypex , https://paypex.slack.com/",2017-11-17,1
+115,True Chain,https://coinmarketcap.com/currencies/true-chain/,TRUE,https://www.feixiaohao.com/currencies/true-chain/,221369000.0,http://www.truechain.pro,,,0
+116,Nucleus Vision,https://coinmarketcap.com/currencies/nucleus-vision/,NCASH,https://www.feixiaohao.com/currencies/nucleus-vision/,3065050.0,https://nucleus.vision/,"https://t.me/NucleusVision , https://t.me/nucleuskorea",2018-02-27,0
+117,Holo,https://coinmarketcap.com/currencies/holo/,HOT,https://www.feixiaohao.com/currencies/holo/,1684230.0,"https://holochain.org/ , https://holo.host",http://t.me/channelHolo,2018-04-29,1
+118,Theta Token,https://coinmarketcap.com/currencies/theta-token/,THETA,https://www.feixiaohao.com/currencies/theta-token/,9892830.0,https://www.thetatoken.org/,https://t.me/joinchat/Gt6mbxJb-2XukwGA_atLjg,2018-01-17,0
+119,Request Network,https://coinmarketcap.com/currencies/request-network/,REQ,https://www.feixiaohao.com/currencies/request-network/,983150.0,https://request.network/,"https://t.me/requestnetwork , https://open.kakao.com/o/g0Y6wJA",2017-10-21,17
+120,Emercoin,https://coinmarketcap.com/currencies/emercoin/,EMC,https://www.feixiaohao.com/currencies/emercoin/,1255670.0,http://emercoin.com/,https://t.me/emercoin_official,2013-12-08,9
+121,Byteball Bytes,https://coinmarketcap.com/currencies/byteball/,GBYTE,https://www.feixiaohao.com/currencies/byteball/,198909.0,"https://byteball.org/ , https://wiki.byteball.org/Main_Page",https://t.me/byteball,2017-01-30,4
+122,Decentraland,https://coinmarketcap.com/currencies/decentraland/,MANA,https://www.feixiaohao.com/currencies/decentraland/,4381790.0,https://decentraland.org/,"https://chat.decentraland.org/ , https://t.me/dcl_market",2017-09-18,25
+123,Nexo,https://coinmarketcap.com/currencies/nexo/,NEXO,https://www.feixiaohao.com/currencies/nexo/,5564390.0,http://nexo.io,https://t.me/nexofinance,2018-05-01,7
+124,Achain,https://coinmarketcap.com/currencies/achain/,ACT,https://www.feixiaohao.com/currencies/achain/,19917100.0,https://www.achain.com/,https://t.me/joinchat/GbZKzQ5-wexioFquTyAXmg,2017-08-27,16
+125,Bottos,https://coinmarketcap.com/currencies/bottos/,BTO,https://www.feixiaohao.com/currencies/bottos/,6576630.0,https://www.bottos.org/,https://t.me/bottosworld,2018-01-14,10
+126,Scry.info,https://coinmarketcap.com/currencies/scryinfo/,DDD,https://www.feixiaohao.com/currencies/scryinfo/,1219930.0,https://home.scry.info/,https://t.me/scryinfo1,,0
+127,BitcoinDark,https://coinmarketcap.com/currencies/bitcoindark/,BTCD,https://www.feixiaohao.com/currencies/bitcoindark/,169495.0,http://bitcoindark.com/,http://slackinvite.supernet.org/,2014-07-09,2
+128,Dropil,https://coinmarketcap.com/currencies/dropil/,DROP,https://www.feixiaohao.com/currencies/dropil/,97309.0,https://dropil.com,https://t.me/DropilCoin,2018-03-19,2
+129,Storj,https://coinmarketcap.com/currencies/storj/,STORJ,https://www.feixiaohao.com/currencies/storj/,7198560.0,https://storj.io/,,2017-07-03,18
+130,Particl,https://coinmarketcap.com/currencies/particl/,PART,https://www.feixiaohao.com/currencies/particl/,1378310.0,http://particl.io/,"https://t.me/particlproject , https://t.me/particlnews",2017-07-21,4
+131,Civic,https://coinmarketcap.com/currencies/civic/,CVC,https://www.feixiaohao.com/currencies/civic/,6650960.0,https://www.civic.com/,,2017-07-18,19
+132,Credits,https://coinmarketcap.com/currencies/credits/,CS,https://www.feixiaohao.com/currencies/credits/,3011320.0,https://credits.com/en,"https://t.me/creditscom , https://t.me/CREDITSoffical",2018-03-03,9
+133,Iconomi,https://coinmarketcap.com/currencies/iconomi/,ICN,https://www.feixiaohao.com/currencies/iconomi/,553210.0,https://www.iconomi.net/,,2016-12-21,8
+134,Nexus,https://coinmarketcap.com/currencies/nexus/,NXS,https://www.feixiaohao.com/currencies/nexus/,582852.0,http://www.nexusearth.com/,,,3
+135,Time New Bank,https://coinmarketcap.com/currencies/time-new-bank/,TNB,https://www.feixiaohao.com/currencies/time-new-bank/,15148700.0,http://tnb.fund/,"https://t.me/tnbgroup , https://t.me/tnb_en",2017-11-28,1
+136,Aragon,https://coinmarketcap.com/currencies/aragon/,ANT,https://www.feixiaohao.com/currencies/aragon/,384973.0,https://aragon.one/,,2017-05-17,8
+137,Cindicator,https://coinmarketcap.com/currencies/cindicator/,CND,https://www.feixiaohao.com/currencies/cindicator/,910209.0,https://cindicator.com/,"https://t.me/cindicator_chat , https://t.me/cindicator_news",2017-10-14,5
+138,ZenCash,https://coinmarketcap.com/currencies/zencash/,ZEN,https://www.feixiaohao.com/currencies/zencash/,418562.0,https://zencash.com/,"https://t.me/zencash , https://discord.gg/9kXQFHx",,7
+139,POA Network,https://coinmarketcap.com/currencies/poa-network/,POA,https://www.feixiaohao.com/currencies/poa-network/,3656000.0,https://poa.network/,https://t.me/oraclesnetwork,2018-03-01,0
+140,SmartCash,https://coinmarketcap.com/currencies/smartcash/,SMART,https://www.feixiaohao.com/currencies/smartcash/,167747.0,https://smartcash.cc/,,2017-07-22,3
+141,Bibox Token,https://coinmarketcap.com/currencies/bibox-token/,BIX,https://www.feixiaohao.com/currencies/bibox-token/,51803300.0,https://www.bibox.com/,https://t.me/joinchat/GAi9vQ5BEjR0mAxK5cdHjA,2017-12-25,0
+142,Game.com,https://coinmarketcap.com/currencies/game/,GTC,https://www.feixiaohao.com/currencies/game/,4464650.0,"http://game.com/ , https://gtc.game.com/",https://t.me/gameico,2018-01-04,0
+143,SONM,https://coinmarketcap.com/currencies/sonm/,SNM,https://www.feixiaohao.com/currencies/sonm/,4302020.0,https://sonm.io/,https://t.me/sonm_eng,2017-06-17,9
+144,Quantstamp,https://coinmarketcap.com/currencies/quantstamp/,QSP,https://www.feixiaohao.com/currencies/quantstamp/,1727830.0,https://quantstamp.com/,https://t.me/quantstamp,2017-11-22,9
+145,Vertcoin,https://coinmarketcap.com/currencies/vertcoin/,VTC,https://www.feixiaohao.com/currencies/vertcoin/,1644000.0,http://vertcoin.org/,https://discord.gg/SUy9Hsr,2014-01-06,10
+146,Enjin Coin,https://coinmarketcap.com/currencies/enjin-coin/,ENJ,https://www.feixiaohao.com/currencies/enjin-coin/,3141780.0,https://enjincoin.io/,https://t.me/enjin_coin,2017-11-02,13
+147,Gnosis,https://coinmarketcap.com/currencies/gnosis-gno/,GNO,https://www.feixiaohao.com/currencies/gnosis-gno/,448015.0,https://gnosis.pm/,,2017-04-24,11
+148,Arcblock,https://coinmarketcap.com/currencies/arcblock/,ABT,https://www.feixiaohao.com/currencies/arcblock/,18112600.0,https://www.arcblock.io/,https://t.me/ArcBlock,2018-02-27,14
+149,SmartMesh,https://coinmarketcap.com/currencies/smartmesh/,SMT,https://www.feixiaohao.com/currencies/smartmesh/,13731300.0,https://smartmesh.io/,"https://t.me/SmartMesh , https://open.kakao.com/o/gWZRtfD",2017-12-14,4
+150,SophiaTX,https://coinmarketcap.com/currencies/sophiatx/,SPHTX,https://www.feixiaohao.com/currencies/sophiatx/,1259060.0,https://www.sophiatx.com/,http://t.me/sophia_TX_com,2017-12-27,7
+151,High Performance Blockchain,https://coinmarketcap.com/currencies/high-performance-blockchain/,HPB,https://www.feixiaohao.com/currencies/high-performance-blockchain/,6975300.0,http://www.gxn.io/,https://telegram.me/hpbglobal,,0
+152,Blocknet,https://coinmarketcap.com/currencies/blocknet/,BLOCK,https://www.feixiaohao.com/currencies/blocknet/,1030850.0,"http://blocknet.co/ , https://blocknetprotocol.com/","https://discord.gg/2e6s7H8 , https://t.me/Blocknet",,4
+153,SingularityNET,https://coinmarketcap.com/currencies/singularitynet/,AGI,https://www.feixiaohao.com/currencies/singularitynet/,583216.0,https://singularitynet.io/,https://t.me/singularitynet,2018-01-18,6
+154,Bluzelle,https://coinmarketcap.com/currencies/bluzelle/,BLZ,https://www.feixiaohao.com/currencies/bluzelle/,2092820.0,https://bluzelle.com/,https://t.me/bluzelle,2018-02-07,7
+155,Ruff,https://coinmarketcap.com/currencies/ruff/,RUFF,https://www.feixiaohao.com/currencies/ruff/,4778870.0,http://ruffchain.com/,https://t.me/RuffChain,2018-01-29,6
+156,Asch,https://coinmarketcap.com/currencies/asch/,XAS,https://www.feixiaohao.com/currencies/asch/,3102300.0,https://www.asch.io/,https://t.me/joinchat/F5GtMA2hHXXoeuHdiPiooA,2016-08-16,9
+157,TokenPay,https://coinmarketcap.com/currencies/tokenpay/,TPAY,https://www.feixiaohao.com/currencies/tokenpay/,602970.0,https://www.tokenpay.com/,https://t.me/joinchat/GgZih0NrYt2F11oXwQ11Cg,2018-04-06,1
+158,Ignis,https://coinmarketcap.com/currencies/ignis/,IGNIS,https://www.feixiaohao.com/currencies/ignis/,964504.0,"https://www.ardorplatform.org/ignis%E2%80%94first-childchain , https://www.jelurida.com/ico",,2017-12-14,5
+159,IHT Real Estate Protocol,https://coinmarketcap.com/currencies/iht-real-estate-protocol/,IHT,https://www.feixiaohao.com/currencies/iht-real-estate-protocol/,5608360.0,https://ihtcoin.com/,"http://t.me/IHTcoin , https://t.me/IHTChinese",2018-03-02,7
+160,DigitalNote,https://coinmarketcap.com/currencies/digitalnote/,XDN,https://www.feixiaohao.com/currencies/digitalnote/,4002350.0,http://digitalnote.org/,,,3
+161,SIRIN LABS Token,https://coinmarketcap.com/currencies/sirin-labs-token/,SRN,https://www.feixiaohao.com/currencies/sirin-labs-token/,5936530.0,http://www.sirinlabs.com/,https://t.me/sirinlabs,2017-12-29,9
+162,Ink,https://coinmarketcap.com/currencies/ink/,INK,https://www.feixiaohao.com/currencies/ink/,8119360.0,https://ink.one/,https://t.me/joinchat/GHiS0A7C841w1NbTNwIYIQ,2017-11-21,11
+163,Genaro Network,https://coinmarketcap.com/currencies/genaro-network/,GNX,https://www.feixiaohao.com/currencies/genaro-network/,1234160.0,https://genaro.network/en,https://t.me/GenaroNetworkOfficial,2017-12-19,0
+164,Metal,https://coinmarketcap.com/currencies/metal/,MTL,https://www.feixiaohao.com/currencies/metal/,12003400.0,https://www.metalpay.com/,"https://t.me/MetalPayCommunity , https://discord.gg/B2QDmgf",2017-07-10,10
+165,GameCredits,https://coinmarketcap.com/currencies/gamecredits/,GAME,https://www.feixiaohao.com/currencies/gamecredits/,95857.2,http://gamecredits.com,https://discordapp.com/invite/vDEYBTc,2014-02-14,8
+166,Delphy,https://coinmarketcap.com/currencies/delphy/,DPY,https://www.feixiaohao.com/currencies/delphy/,2215620.0,https://delphy.org/,,2017-11-09,2
+167,Litecoin Cash,https://coinmarketcap.com/currencies/litecoin-cash/,LCC,https://www.feixiaohao.com/currencies/litecoin-cash/,243044.0,https://litecoinca.sh/,"https://t.me/litecoincashofficial , https://discordapp.com/invite/F2nZXnW",2018-02-22,9
+168,Raiden Network Token,https://coinmarketcap.com/currencies/raiden-network-token/,RDN,https://www.feixiaohao.com/currencies/raiden-network-token/,1598510.0,https://raiden.network/,"https://riot.im/app/#/room/#raiden-network:matrix.org , https://gitter.im/raiden-network/raiden",2017-11-09,14
+169,BOScoin,https://coinmarketcap.com/currencies/boscoin/,BOS,https://www.feixiaohao.com/currencies/boscoin/,153516.0,https://boscoin.io/,https://boscoin.slack.com/,2017-10-27,2
+170,Po.et,https://coinmarketcap.com/currencies/poet/,POE,https://www.feixiaohao.com/currencies/poet/,2440190.0,https://po.et/,https://t.me/joinchat/GKMQ1kOQSdXVZpN1Rygcdw,2017-09-02,10
+171,DATA,https://coinmarketcap.com/currencies/data/,DTA,https://www.feixiaohao.com/currencies/data/,17159200.0,http://data.eco/,https://t.me/blockchainDATA,2018-01-23,8
+172,BridgeCoin,https://coinmarketcap.com/currencies/bridgecoin/,BCO,https://www.feixiaohao.com/currencies/bridgecoin/,25933.2,"https://www.crypto-bridge.org/ , https://bridgecoin.org/","https://t.me/CryptoBridge , https://discord.gg/9mmg9MT",2017-10-11,1
+173,Dent,https://coinmarketcap.com/currencies/dent/,DENT,https://www.feixiaohao.com/currencies/dent/,2387670.0,https://www.dentcoin.com/,https://t.me/dentcoin,2017-08-13,10
+174,THEKEY,https://coinmarketcap.com/currencies/thekey/,TKY,https://www.feixiaohao.com/currencies/thekey/,2031400.0,https://www.thekey.vip,https://t.me/joinchat/FkZtERGQ1qUEU7iAzC6xVQ,2018-02-08,4
+175,Groestlcoin,https://coinmarketcap.com/currencies/groestlcoin/,GRS,https://www.feixiaohao.com/currencies/groestlcoin/,11229200.0,http://www.groestlcoin.org/,"http://t.me/groestl , https://discord.gg/8VURndr",2014-03-22,9
+176,TomoChain,https://coinmarketcap.com/currencies/tomochain/,TOMO,https://www.feixiaohao.com/currencies/tomochain/,2551690.0,https://tomochain.com/,"https://t.me/tomochain , https://t.me/tomocoin_io",2018-03-09,6
+177,Santiment Network Token,https://coinmarketcap.com/currencies/santiment/,SAN,https://www.feixiaohao.com/currencies/santiment/,1106580.0,https://santiment.net/,https://t.me/santiment_network,2017-07-13,6
+178,OriginTrail,https://coinmarketcap.com/currencies/origintrail/,TRAC,https://www.feixiaohao.com/currencies/origintrail/,513571.0,https://origintrail.io/,https://t.me/origintrail,2018-01-26,6
+179,Apex,https://coinmarketcap.com/currencies/apex/,CPX,https://www.feixiaohao.com/currencies/apex/,514729.0,https://apex.chinapex.com/,https://t.me/APEXcommunity,2018-04-17,1
+180,Streamr DATAcoin,https://coinmarketcap.com/currencies/streamr-datacoin/,DATA,https://www.feixiaohao.com/currencies/streamr-datacoin/,990149.0,https://www.streamr.com/,https://chat.streamr.com/,2017-11-04,10
+181,Crypterium,https://coinmarketcap.com/currencies/crypterium/,CRPT,https://www.feixiaohao.com/currencies/crypterium/,1087720.0,https://crypterium.io/,https://t.me/crypterium,2018-01-23,6
+182,Ubiq,https://coinmarketcap.com/currencies/ubiq/,UBQ,https://www.feixiaohao.com/currencies/ubiq/,107136.0,http://ubiqsmart.com/,https://discordapp.com/invite/HF6vEGF,2016-08-13,4
+183,DEW,https://coinmarketcap.com/currencies/dew/,DEW,https://www.feixiaohao.com/currencies/dew/,330421.0,https://www.dew.one/,https://t.me/dew_cn,2017-12-23,4
+184,Red Pulse,https://coinmarketcap.com/currencies/red-pulse/,RPX,https://www.feixiaohao.com/currencies/red-pulse/,1774950.0,https://www.red-pulse.com/landing,"https://t.me/redpulse , https://coin.red-pulse.com/slack",2017-10-29,0
+185,CyberVein,https://coinmarketcap.com/currencies/cybervein/,CVT,https://www.feixiaohao.com/currencies/cybervein/,1246050.0,http://www.cybervein.org/,"https://t.me/Cyberveinofficial , https://cybervein.slack.com/",2018-04-18,4
+186,Ambrosus,https://coinmarketcap.com/currencies/amber/,AMB,https://www.feixiaohao.com/currencies/amber/,1346160.0,http://ambrosus.com/,"https://t.me/ambrosuschat , https://discordapp.com/invite/jbmWg8c",2017-10-24,10
+187,Dynamic Trading Rights,https://coinmarketcap.com/currencies/dynamic-trading-rights/,DTR,https://www.feixiaohao.com/currencies/dynamic-trading-rights/,48688.9,http://www.tokens.net/,,2017-12-21,1
+188,Zebi,https://coinmarketcap.com/currencies/zebi/,ZCO,https://www.feixiaohao.com/currencies/zebi/,1003550.0,https://www.zebi.io/,https://t.me/ZebiData,2018-04-30,4
+189,Cube,https://coinmarketcap.com/currencies/cube/,AUTO,https://www.feixiaohao.com/currencies/cube/,1688040.0,https://cubeint.io/,https://t.me/joinchat/HEId7g9EFqAGkWqAtD67Hg,2018-03-04,0
+190,NavCoin,https://coinmarketcap.com/currencies/nav-coin/,NAV,https://www.feixiaohao.com/currencies/nav-coin/,12060400.0,http://www.navcoin.org/,"https://t.me/navcoin , https://discord.gg/y4Vu9jw",2014-07-06,7
+191,MediBloc,https://coinmarketcap.com/currencies/medibloc/,MED,https://www.feixiaohao.com/currencies/medibloc/,758919.0,https://medibloc.org/en/,https://t.me/medibloc,2017-12-23,1
+192,Bitcore,https://coinmarketcap.com/currencies/bitcore/,BTX,https://www.feixiaohao.com/currencies/bitcore/,565028.0,http://bitcore.cc/,https://t.me/bitcore_btx_official,2017-04-24,8
+193,Peercoin,https://coinmarketcap.com/currencies/peercoin/,PPC,https://www.feixiaohao.com/currencies/peercoin/,515339.0,http://www.peercoin.net,https://t.me/peercoin,2012-08-19,14
+194,ETHLend,https://coinmarketcap.com/currencies/ethlend/,LEND,https://www.feixiaohao.com/currencies/ethlend/,1008420.0,https://ethlend.io/,https://t.me/ETHLend,2017-12-01,11
+195,Genesis Vision,https://coinmarketcap.com/currencies/genesis-vision/,GVT,https://www.feixiaohao.com/currencies/genesis-vision/,7250310.0,https://genesis.vision/,"https://t.me/genesisvision , https://u.wechat.com/IL6s8kyYCLGz0S6t5HqJwr4",2017-11-16,5
+196,Lympo,https://coinmarketcap.com/currencies/lympo/,LYM,https://www.feixiaohao.com/currencies/lympo/,13965300.0,https://lympo.io/,https://t.me/lympo,2018-03-02,5
+197,IoT Chain,https://coinmarketcap.com/currencies/iot-chain/,ITC,https://www.feixiaohao.com/currencies/iot-chain/,3856730.0,https://iotchain.io/,"https://t.me/IoTChain , http://qm.qq.com/cgi-bin/qm/qr?k=CjS_9da0Uj5SfXX8Wm1PIDuL_Nbjzmc3",2017-12-07,0
+198,CRYPTO20,https://coinmarketcap.com/currencies/c20/,C20,https://www.feixiaohao.com/currencies/c20/,1484610.0,https://crypto20.com/,https://open.kakao.com/o/gxk98HA,2018-01-23,4
+199,Pillar,https://coinmarketcap.com/currencies/pillar/,PLR,https://www.feixiaohao.com/currencies/pillar/,39071.3,https://pillarproject.io/,"https://community.pillarproject.io , https://t.me/pillarofficial",2017-07-25,6
+200,CloakCoin,https://coinmarketcap.com/currencies/cloakcoin/,CLOAK,https://www.feixiaohao.com/currencies/cloakcoin/,7497760.0,https://www.cloakcoin.com/,"https://t.me/cloakproject , https://chat.cloakcoin.com",2014-06-03,8
+201,Republic Protocol,https://coinmarketcap.com/currencies/republic-protocol/,REN,https://www.feixiaohao.com/currencies/republic-protocol/,3155860.0,https://republicprotocol.com/,"https://t.me/republicprotocol , https://t.me/republicprotocolannouncements",2018-02-22,9
+202,Primas,https://coinmarketcap.com/currencies/primas/,PST,https://www.feixiaohao.com/currencies/primas/,17707600.0,https://primas.io/,,2017-08-29,4
+203,AdEx,https://coinmarketcap.com/currencies/adx-net/,ADX,https://www.feixiaohao.com/currencies/adx-net/,3033600.0,https://www.adex.network/,https://t.me/AdExNetwork,,10
+204,PayPie,https://coinmarketcap.com/currencies/paypie/,PPP,https://www.feixiaohao.com/currencies/paypie/,639021.0,https://www.paypie.com/,https://t.me/PayPie,2017-10-11,5
+205,ZClassic,https://coinmarketcap.com/currencies/zclassic/,ZCL,https://www.feixiaohao.com/currencies/zclassic/,879148.0,http://zclassic.org/,,,4
+206,OST,https://coinmarketcap.com/currencies/ost/,OST,https://www.feixiaohao.com/currencies/ost/,1500480.0,https://ost.com,https://t.me/OSTdotcom,,0
+207,Electra,https://coinmarketcap.com/currencies/electra/,ECA,https://www.feixiaohao.com/currencies/electra/,605939.0,https://electraproject.org/,"https://t.me/ElectracoinECA , https://discordapp.com/invite/B8F7Jdv",,4
+208,MediShares,https://coinmarketcap.com/currencies/medishares/,MDS,https://www.feixiaohao.com/currencies/medishares/,2473470.0,http://www.medishares.org/,,2017-12-14,4
+209,Ripio Credit Network,https://coinmarketcap.com/currencies/ripio-credit-network/,RCN,https://www.feixiaohao.com/currencies/ripio-credit-network/,4090280.0,https://ripiocredit.network/,https://t.me/RCNchat,2017-10-27,10
+210,Rock,https://coinmarketcap.com/currencies/rock/,RKT,https://www.feixiaohao.com/currencies/rock/,601635.0,https://gbx.gi/,https://t.me/GBXCommunity,2018-03-01,4
+211,BLOCKv,https://coinmarketcap.com/currencies/blockv/,VEE,https://www.feixiaohao.com/currencies/blockv/,767916.0,https://blockv.io/,https://t.me/block_v,2017-11-29,7
+212,Jibrel Network,https://coinmarketcap.com/currencies/jibrel-network/,JNT,https://www.feixiaohao.com/currencies/jibrel-network/,1669120.0,https://jibrel.network/,https://t.me/jibrel_network,2018-02-03,0
+213,Telcoin,https://coinmarketcap.com/currencies/telcoin/,TEL,https://www.feixiaohao.com/currencies/telcoin/,340642.0,https://www.telco.in/,https://t.me/telcoincommunity,2018-01-14,4
+214,DATx,https://coinmarketcap.com/currencies/datx/,DATX,https://www.feixiaohao.com/currencies/datx/,36014.3,https://www.datx.co/,https://t.me/datxofficial01,2018-03-09,4
+215,Bread,https://coinmarketcap.com/currencies/bread/,BRD,https://www.feixiaohao.com/currencies/bread/,5520600.0,https://BRD.com ,https://t.me/joinchat/HB6JsUq7-w-y6l5DrfRV-A,2017-12-25,7
+216,Primecoin,https://coinmarketcap.com/currencies/primecoin/,XPM,https://www.feixiaohao.com/currencies/primecoin/,434553.0,http://primecoin.io/,,2013-07-12,7
+217,EDUCare,https://coinmarketcap.com/currencies/educare/,EKT,https://www.feixiaohao.com/currencies/educare/,26020200.0,http://ekt8.io/,https://t.me/joinchat/G87p8hAR8y4n_doleuXDqA,2018-01-24,0
+218,AirSwap,https://coinmarketcap.com/currencies/airswap/,AST,https://www.feixiaohao.com/currencies/airswap/,2284940.0,https://www.airswap.io/,,2017-10-18,7
+219,Eidoo,https://coinmarketcap.com/currencies/eidoo/,EDO,https://www.feixiaohao.com/currencies/eidoo/,7216810.0,https://eidoo.io/,https://t.me/joinchat/F4ox3EO_ubynqlzakd6lKw,2017-10-18,9
+220,Einsteinium,https://coinmarketcap.com/currencies/einsteinium/,EMC2,https://www.feixiaohao.com/currencies/einsteinium/,987018.0,https://www.emc2.foundation/,https://t.me/emc2_official,2014-03-01,4
+221,BitBay,https://coinmarketcap.com/currencies/bitbay/,BAY,https://www.feixiaohao.com/currencies/bitbay/,281286.0,http://bitbay.market/,"https://t.me/bitbayofficial , https://discord.gg/sP8b66W",,4
+222,Quantum Resistant Ledger,https://coinmarketcap.com/currencies/quantum-resistant-ledger/,QRL,https://www.feixiaohao.com/currencies/quantum-resistant-ledger/,223470.0,https://theqrl.org/,https://discord.gg/BheKAZb,2017-03-21,4
+223,DAEX,https://coinmarketcap.com/currencies/daex/,DAX,https://www.feixiaohao.com/currencies/daex/,6015100.0,https://daex.io/,"https://t.me/daexofficialgroup_en , https://t.me/daexofficialgroup",2018-05-02,2
+224,Burst,https://coinmarketcap.com/currencies/burst/,BURST,https://www.feixiaohao.com/currencies/burst/,269122.0,https://www.burst-coin.org,"https://t.me/burstcoin , https://discord.gg/Z2HSNFv",2014-08-10,4
+225,Oyster,https://coinmarketcap.com/currencies/oyster/,PRL,https://www.feixiaohao.com/currencies/oyster/,339415.0,https://oysterprotocol.com/,https://t.me/oysterprotocol,,6
+226,district0x,https://coinmarketcap.com/currencies/district0x/,DNT,https://www.feixiaohao.com/currencies/district0x/,2046930.0,https://district0x.io/,"https://t.me/district0x , https://district0x.chat/",2017-08-04,11
+227,Experience Points,https://coinmarketcap.com/currencies/experience-points/,XP,https://www.feixiaohao.com/currencies/experience-points/,538340.0,http://www.xpcoin.io/,"https://t.me/xpcoin , https://discordapp.com/invite/NYMAUec",,4
+228,Banca,https://coinmarketcap.com/currencies/banca/,BANCA,https://www.feixiaohao.com/currencies/banca/,4304660.0,https://www.banca.world/,"https://t.me/banca_official , https://t.me/BancaPublic",2018-03-19,3
+229,SingularDTV,https://coinmarketcap.com/currencies/singulardtv/,SNGLS,https://www.feixiaohao.com/currencies/singulardtv/,686326.0,"https://singulardtv.com/ , https://medium.com/@SingularDTV",https://singulardtv.slack.com/,,10
+230,Edgeless,https://coinmarketcap.com/currencies/edgeless/,EDG,https://www.feixiaohao.com/currencies/edgeless/,598663.0,"https://edgeless.io/ , https://www.investors-edgeless.io",https://discord.gg/h8a8Zs3,2017-02-28,6
+231,Hydro Protocol,https://coinmarketcap.com/currencies/hydro-protocol/,HOT,https://www.feixiaohao.com/currencies/hydro-protocol/,451590.0,https://thehydrofoundation.com/,https://t.me/hydroprotocol,2018-01-19,0
+232,SaluS,https://coinmarketcap.com/currencies/salus/,SLS,https://www.feixiaohao.com/currencies/salus/,739320.0,http://saluscoin.info/,,,2
+233,SpankChain,https://coinmarketcap.com/currencies/spankchain/,SPANK,https://www.feixiaohao.com/currencies/spankchain/,39941.5,https://spankchain.com/,https://discord.gg/Rz48YYy,2017-11-24,4
+234,AppCoins,https://coinmarketcap.com/currencies/appcoins/,APPC,https://www.feixiaohao.com/currencies/appcoins/,1901470.0,https://appcoins.io/,,2018-01-08,3
+235,WePower,https://coinmarketcap.com/currencies/wepower/,WPR,https://www.feixiaohao.com/currencies/wepower/,1811240.0,https://wepower.network/,https://t.me/WePower,2018-02-10,0
+236,Viacoin,https://coinmarketcap.com/currencies/viacoin/,VIA,https://www.feixiaohao.com/currencies/viacoin/,1078580.0,http://viacoin.org,https://telegram.me/viacoin,2014-07-20,7
+237,Trinity Network Credit,https://coinmarketcap.com/currencies/trinity-network-credit/,TNC,https://www.feixiaohao.com/currencies/trinity-network-credit/,2754940.0,https://trinity.tech/,https://t.me/TrinityStateChannels,2018-01-23,0
+238,WaBi,https://coinmarketcap.com/currencies/wabi/,WABI,https://www.feixiaohao.com/currencies/wabi/,594432.0,https://wacoin.io/,"https://t.me/wabiico , http://slack.wacoin.io/",2017-12-13,5
+239,Ravencoin,https://coinmarketcap.com/currencies/ravencoin/,RVN,https://www.feixiaohao.com/currencies/ravencoin/,433509.0,https://ravencoin.org/,"https://t.me/RavencoinDev , https://discordapp.com/invite/CqbfUZd",2018-03-11,3
+240,UTRUST,https://coinmarketcap.com/currencies/utrust/,UTK,https://www.feixiaohao.com/currencies/utrust/,394461.0,https://utrust.com/,https://t.me/utrustofficial,2017-12-30,2
+241,HTMLCOIN,https://coinmarketcap.com/currencies/html-coin/,HTML,https://www.feixiaohao.com/currencies/html-coin/,353627.0,http://www.htmlcoin.com/,https://t.me/officialhtmlcoin,2017-12-29,4
+242,LinkEye,https://coinmarketcap.com/currencies/linkeye/,LET,https://www.feixiaohao.com/currencies/linkeye/,1768600.0,http://www.linkeye.com/,"https://t.me/linkeye_en , https://telegram.me/LinkEyeProject",2018-01-26,3
+243,Internet Node Token,https://coinmarketcap.com/currencies/internet-node-token/,INT,https://www.feixiaohao.com/currencies/internet-node-token/,7788470.0,https://intchain.io/,,2018-01-15,0
+244,ION,https://coinmarketcap.com/currencies/ion/,ION,https://www.feixiaohao.com/currencies/ion/,521081.0,https://ionomy.com/,https://discord.gg/4WZkZJS,,2
+245,BitRent,https://coinmarketcap.com/currencies/bitrent/,RNTB,https://www.feixiaohao.com/currencies/bitrent/,543580.0,https://bitrent.io,https://t.me/bitrentio,2018-03-26,3
+246,Wings,https://coinmarketcap.com/currencies/wings/,WINGS,https://www.feixiaohao.com/currencies/wings/,5278260.0,https://wings.ai/,https://telegram.me/wingschat,2017-05-23,8
+247,Tierion,https://coinmarketcap.com/currencies/tierion/,TNT,https://www.feixiaohao.com/currencies/tierion/,1201960.0,https://tierion.com/,https://discordapp.com/invite/9HM4Qy9,2017-08-28,10
+248,MinexCoin,https://coinmarketcap.com/currencies/minexcoin/,MNX,https://www.feixiaohao.com/currencies/minexcoin/,46069.6,https://minexcoin.com/,https://t.me/minexcoin,2017-11-03,2
+249,Modum,https://coinmarketcap.com/currencies/modum/,MOD,https://www.feixiaohao.com/currencies/modum/,594807.0,https://modum.io/,"https://t.me/joinchat/GOpSHUkujWHJ_D_AXK8WQA , https://t.me/joinchat/GOpSHU5-4UZ_jmgQegnP6w",2017-10-24,7
+250,BABB,https://coinmarketcap.com/currencies/babb/,BAX,https://www.feixiaohao.com/currencies/babb/,583803.0,https://getbabb.com/,https://t.me/joinchat/E7lsBw5BqFHVEz1etGm9ww,2018-03-10,3
+251,Electrify.Asia,https://coinmarketcap.com/currencies/electrifyasia/,ELEC,https://www.feixiaohao.com/currencies/electrifyasia/,229050.0,https://electrify.asia/,https://t.me/electrifyasia,2018-03-10,5
+252,INS Ecosystem,https://coinmarketcap.com/currencies/ins-ecosystem/,INS,https://www.feixiaohao.com/currencies/ins-ecosystem/,2747690.0,https://ins.world/,"https://t.me/ins_ecosystem , https://t.me/ins_ecosystem_cn",2018-01-11,7
+253,NANJCOIN,https://coinmarketcap.com/currencies/nanjcoin/,NANJ,https://www.feixiaohao.com/currencies/nanjcoin/,739502.0,https://nanjcoin.com/,https://discordapp.com/invite/xa94m8F,2018-03-21,3
+254,VIBE,https://coinmarketcap.com/currencies/vibe/,VIBE,https://www.feixiaohao.com/currencies/vibe/,773544.0,https://www.vibehub.io/,https://discordapp.com/invite/rDJTpxC,2017-09-26,4
+255,DECENT,https://coinmarketcap.com/currencies/decent/,DCT,https://www.feixiaohao.com/currencies/decent/,1622120.0,https://decent.ch/,,2016-09-10,6
+256,U Network,https://coinmarketcap.com/currencies/u-network/,UUU,https://www.feixiaohao.com/currencies/u-network/,605247.0,https://u.network/,https://t.me/UNetwork,2018-04-18,0
+257,Havven,https://coinmarketcap.com/currencies/havven/,HAV,https://www.feixiaohao.com/currencies/havven/,1231660.0,https://havven.io/,https://t.me/havven_official1,2018-03-15,6
+258,Bodhi,https://coinmarketcap.com/currencies/bodhi/,BOT,https://www.feixiaohao.com/currencies/bodhi/,3579260.0,http://www.bodhi.network/,http://t.me/bodhifoundation,2017-11-21,7
+259,Counterparty,https://coinmarketcap.com/currencies/counterparty/,XCP,https://www.feixiaohao.com/currencies/counterparty/,109561.0,http://counterparty.io/,,2014-01-02,4
+260,Gulden,https://coinmarketcap.com/currencies/gulden/,NLG,https://www.feixiaohao.com/currencies/gulden/,51867.7,https://gulden.com/,,,7
+261,Storiqa,https://coinmarketcap.com/currencies/storiqa/,STQ,https://www.feixiaohao.com/currencies/storiqa/,213241.0,https://crowdsale.storiqa.com/,https://t.me/storiqa_en,2018-03-15,5
+262,bitCNY,https://coinmarketcap.com/currencies/bitcny/,BITCNY,https://www.feixiaohao.com/currencies/bitcny/,28110300.0,,,,8
+263,QLINK,https://coinmarketcap.com/currencies/qlink/,QLC,https://www.feixiaohao.com/currencies/qlink/,5417570.0,http://qlink.mobi/,https://t.me/joinchat/F2sRmw4x_mzgSHKhyH5AFQ,2017-12-30,3
+264,Pura,https://coinmarketcap.com/currencies/pura/,PURA,https://www.feixiaohao.com/currencies/pura/,5062500.0,http://www.pura.one/,,,3
+265,LBRY Credits,https://coinmarketcap.com/currencies/library-credit/,LBC,https://www.feixiaohao.com/currencies/library-credit/,193246.0,"https://lbry.io/ , https://lbry.community/","https://chat.lbry.io/ , https://t.me/lbryofficial",2016-07-04,4
+266,Odyssey,https://coinmarketcap.com/currencies/odyssey/,OCN,https://www.feixiaohao.com/currencies/odyssey/,25462800.0,"http://www.ocoins.cc/ , http://ocoins.es/","https://t.me/OdysseyOfficial , https://t.me/ODysseySPANISH",2018-01-25,12
+267,Dai,https://coinmarketcap.com/currencies/dai/,DAI,https://www.feixiaohao.com/currencies/dai/,749905.0,http://www.makerdao.com/,https://chat.makerdao.com/,2017-12-25,7
+268,CPChain,https://coinmarketcap.com/currencies/cpchain/,CPC,https://www.feixiaohao.com/currencies/cpchain/,2906910.0,http://www.cpchain.io/,https://t.me/cpchain,2018-01-31,1
+269,Dock,https://coinmarketcap.com/currencies/dock/,DOCK,https://www.feixiaohao.com/currencies/dock/,2569450.0,https://dock.io,https://t.me/dockio,2018-04-25,4
+270,KickCoin,https://coinmarketcap.com/currencies/kickico/,KICK,https://www.feixiaohao.com/currencies/kickico/,879232.0,https://www.kickico.com/,https://t.me/kickico,2017-10-05,11
+271,Wagerr,https://coinmarketcap.com/currencies/wagerr/,WGR,https://www.feixiaohao.com/currencies/wagerr/,28644.5,https://www.wagerr.com/,https://discordapp.com/invite/tkcXS34,2017-07-06,4
+272,Lunyr,https://coinmarketcap.com/currencies/lunyr/,LUN,https://www.feixiaohao.com/currencies/lunyr/,33232400.0,https://lunyr.com/,,2017-03-29,9
+273,YEE,https://coinmarketcap.com/currencies/yee/,YEE,https://www.feixiaohao.com/currencies/yee/,3520780.0,http://www.yeefoundation.com/,,2018-01-12,3
+274,Hydrogen,https://coinmarketcap.com/currencies/hydrogen/,HYDRO,https://www.feixiaohao.com/currencies/hydrogen/,2628160.0,https://www.hydrogenplatform.com/hydro,https://t.me/joinchat/H3uDdQ9JBFyV1UL35xX4VQ,2018-05-02,2
+275,Zoin,https://coinmarketcap.com/currencies/zoin/,ZOI,https://www.feixiaohao.com/currencies/zoin/,346554.0,http://zoinofficial.com/,"https://discordapp.com/invite/mE3KemF , https://t.me/zoincommunity",,3
+276,Viberate,https://coinmarketcap.com/currencies/viberate/,VIB,https://www.feixiaohao.com/currencies/viberate/,9671520.0,https://www.viberate.com/,https://t.me/ViberateOfficial,2017-10-07,10
+277,MobileGo,https://coinmarketcap.com/currencies/mobilego/,MGO,https://www.feixiaohao.com/currencies/mobilego/,1118040.0,https://mobilego.io/,https://t.me/mobilego,2017-04-25,8
+278,Soarcoin,https://coinmarketcap.com/currencies/soarcoin/,SOAR,https://www.feixiaohao.com/currencies/soarcoin/,29953.2,http://soarlabs.org/,https://t.me/joinchat/FoiRKg5U9wMPNAKz3mVflA,,1
+279,Blox,https://coinmarketcap.com/currencies/blox/,CDT,https://www.feixiaohao.com/currencies/blox/,711619.0,https://blox.io/,,,0
+280,Feathercoin,https://coinmarketcap.com/currencies/feathercoin/,FTC,https://www.feixiaohao.com/currencies/feathercoin/,127622.0,"http://feathercoin.com , https://feathercoin.foundation/",https://telegram.me/feathercoinofficial,2013-04-16,8
+281,Datum,https://coinmarketcap.com/currencies/datum/,DAT,https://www.feixiaohao.com/currencies/datum/,448190.0,https://datum.org/,"https://t.me/datumnetwork , https://t.me/datumnetworkRU",2017-12-16,9
+282,Tokenomy,https://coinmarketcap.com/currencies/tokenomy/,TEN,https://www.feixiaohao.com/currencies/tokenomy/,332953.0,https://www.tokenomy.com/,,2018-03-11,1
+283,NAGA,https://coinmarketcap.com/currencies/naga/,NGC,https://www.feixiaohao.com/currencies/naga/,1744070.0,https://www.thenagacoin.com/,https://t.me/official_nagacoin,2017-12-24,5
+284,YOYOW,https://coinmarketcap.com/currencies/yoyow/,YOYOW,https://www.feixiaohao.com/currencies/yoyow/,2305650.0,https://yoyow.org/,https://t.me/HelloYOYOW,2017-08-20,7
+285,Lamden,https://coinmarketcap.com/currencies/lamden/,TAU,https://www.feixiaohao.com/currencies/lamden/,97902.0,https://lamden.io/,https://t.me/lamdenchat,2018-01-05,6
+286,Refereum,https://coinmarketcap.com/currencies/refereum/,RFR,https://www.feixiaohao.com/currencies/refereum/,1292030.0,https://refereum.com/,https://t.me/refereumtalk,2018-03-02,6
+287,Triggers,https://coinmarketcap.com/currencies/triggers/,TRIG,https://www.feixiaohao.com/currencies/triggers/,4089730.0,https://www.blocksafefoundation.com/,,,1
+288,Etherparty,https://coinmarketcap.com/currencies/etherparty/,FUEL,https://www.feixiaohao.com/currencies/etherparty/,640315.0,https://etherparty.com/,https://t.me/etherparty,2017-10-31,5
+289,Presearch,https://coinmarketcap.com/currencies/presearch/,PRE,https://www.feixiaohao.com/currencies/presearch/,84714.1,"https://www.presearch.io/ , https://www.presearch.org/",https://t.me/presearch,2017-12-06,2
+290,Sentinel Chain,https://coinmarketcap.com/currencies/sentinel-chain/,SENC,https://www.feixiaohao.com/currencies/sentinel-chain/,2293440.0,https://www.sentinel-chain.org/,https://t.me/sentinelchain,2018-04-03,4
+291,Melon,https://coinmarketcap.com/currencies/melon/,MLN,https://www.feixiaohao.com/currencies/melon/,372167.0,"https://melonport.com/ , https://ipfs.io/ipns/melon.fund/",,2017-02-15,4
+292,TokenCard,https://coinmarketcap.com/currencies/tokencard/,TKN,https://www.feixiaohao.com/currencies/tokencard/,219161.0,http://tokencard.io/,,2017-05-02,3
+293,TokenClub,https://coinmarketcap.com/currencies/tokenclub/,TCT,https://www.feixiaohao.com/currencies/tokenclub/,508884.0,http://www.tokenclub.com/,https://t.me/token_club,2018-01-11,3
+294,BlockMason Credit Protocol,https://coinmarketcap.com/currencies/blockmason/,BCPT,https://www.feixiaohao.com/currencies/blockmason/,4950590.0,https://blockmason.io/,,2017-10-18,7
+295,DecentBet,https://coinmarketcap.com/currencies/decent-bet/,DBET,https://www.feixiaohao.com/currencies/decent-bet/,229542.0,https://www.decent.bet/,https://decentbet-slack.herokuapp.com/,2017-11-14,3
+296,Steem Dollars,https://coinmarketcap.com/currencies/steem-dollars/,SBD,https://www.feixiaohao.com/currencies/steem-dollars/,2168520.0,https://steem.io/,,,5
+297,TaaS,https://coinmarketcap.com/currencies/taas/,TAAS,https://www.feixiaohao.com/currencies/taas/,282348.0,https://taas.fund/,,2017-03-27,4
+298,Cobinhood,https://coinmarketcap.com/currencies/cobinhood/,COB,https://www.feixiaohao.com/currencies/cobinhood/,16334.2,https://www.cobinhood.com/,"https://t.me/cobinhood , http://line.me/ti/g/F4Z6xniAWB",2017-10-02,3
+299,QunQun,https://coinmarketcap.com/currencies/qunqun/,QUN,https://www.feixiaohao.com/currencies/qunqun/,722288.0,https://qunqun.io/,"https://t.me/qunqun_io , https://beechat.io/join?g%3D7a6837bab7f44709a28bdd24a205d810%26lang%3Dzh",2018-01-12,5
+300,ColossusXT,https://coinmarketcap.com/currencies/colossusxt/,COLX,https://www.feixiaohao.com/currencies/colossusxt/,225328.0,http://colossusxt.io,"https://t.me/colossuscoin , https://discord.gg/pRbDzPd",,0
+301,Aeon,https://coinmarketcap.com/currencies/aeon/,AEON,https://www.feixiaohao.com/currencies/aeon/,199987.0,http://www.aeon.cash/,,,2
+302,Universa,https://coinmarketcap.com/currencies/universa/,UTNP,https://www.feixiaohao.com/currencies/universa/,1072900.0,https://www.universa.io/,https://t.me/Uplatform,2018-02-16,2
+303,Medicalchain,https://coinmarketcap.com/currencies/medical-chain/,MTN,https://www.feixiaohao.com/currencies/medical-chain/,6797660.0,https://medicalchain.com/en/,https://t.me/medicalchain,2018-02-08,3
+304,Metaverse ETP,https://coinmarketcap.com/currencies/metaverse/,ETP,https://www.feixiaohao.com/currencies/metaverse/,6931170.0,https://mvs.org/,https://metaverse-project.herokuapp.com/,,10
+305,Namecoin,https://coinmarketcap.com/currencies/namecoin/,NMC,https://www.feixiaohao.com/currencies/namecoin/,175791.0,https://www.namecoin.org/,https://telegram.me/namecoin,2011-04-18,8
+306,Safe Exchange Coin,https://coinmarketcap.com/currencies/safe-exchange-coin/,SAFEX,https://www.feixiaohao.com/currencies/safe-exchange-coin/,29979.4,http://safex.io/,,,1
+307,Proxeus,https://coinmarketcap.com/currencies/proxeus/,XES,https://www.feixiaohao.com/currencies/proxeus/,454889.0,https://proxeus.com/,https://t.me/joinchat/Gj6qYUpY1XHgHGnQa9msvA,2018-04-30,3
+308,ECC,https://coinmarketcap.com/currencies/eccoin/,ECC,https://www.feixiaohao.com/currencies/eccoin/,36734.0,https://ecc.network/,,,2
+309,SwftCoin,https://coinmarketcap.com/currencies/swftcoin/,SWFTC,https://www.feixiaohao.com/currencies/swftcoin/,20107600.0,http://www.swftcoin.com/,https://t.me/swfcoin,2018-01-05,6
+310,DeepOnion,https://coinmarketcap.com/currencies/deeponion/,ONION,https://www.feixiaohao.com/currencies/deeponion/,134646.0,"https://deeponion.org/ , https://deeponion.org/votecentral/",https://t.me/DeepOnionCoin,2017-08-13,4
+311,STK,https://coinmarketcap.com/currencies/stk/,STK,https://www.feixiaohao.com/currencies/stk/,1668900.0,https://stktoken.com/,https://t.me/stktoken,2018-02-02,0
+312,Trade Token,https://coinmarketcap.com/currencies/trade-token/,TIO,https://www.feixiaohao.com/currencies/trade-token/,2522440.0,https://trade.io/,https://t.me/TradeToken,2018-01-12,0
+313,Mobius,https://coinmarketcap.com/currencies/mobius/,MOBI,https://www.feixiaohao.com/currencies/mobius/,219103.0,https://mobius.network/,"https://t.me/mobius_network , https://jq.qq.com/?_wv=1027&k=5qz2sQz",2018-01-19,3
+314,Shift,https://coinmarketcap.com/currencies/shift/,SHIFT,https://www.feixiaohao.com/currencies/shift/,367220.0,http://www.shiftnrg.org,"https://shiftnrg.ryver.com/application/login , https://t.me/shiftnrg",,3
+315,Legolas Exchange,https://coinmarketcap.com/currencies/legolas-exchange/,LGO,https://www.feixiaohao.com/currencies/legolas-exchange/,131873.0,https://legolas.exchange/,"https://t.me/legolasannouncements , https://discordapp.com/invite/RATv9AV",2018-03-22,1
+316,Sentinel,https://coinmarketcap.com/currencies/sentinel/,SENT,https://www.feixiaohao.com/currencies/sentinel/,821342.0,https://sentinelgroup.io/,https://t.me/sentinelsecuritygroup,2018-04-18,3
+317,Spectre.ai Dividend Token,https://coinmarketcap.com/currencies/spectre-dividend/,SXDT,https://www.feixiaohao.com/currencies/spectre-dividend/,13052.6,http://www.spectre.ai/,https://t.me/joinchat/FlBl_UORqQZo-FbiPkHikA,2018-01-12,4
+318,CoinPoker,https://coinmarketcap.com/currencies/coinpoker/,CHP,https://www.feixiaohao.com/currencies/coinpoker/,4774080.0,https://coinpoker.com/,https://t.me/officialcoinpoker,2018-03-09,5
+319,FirstBlood,https://coinmarketcap.com/currencies/firstblood/,1ST,https://www.feixiaohao.com/currencies/firstblood/,5389260.0,https://firstblood.io/,,2016-09-26,7
+320,Unikoin Gold,https://coinmarketcap.com/currencies/unikoin-gold/,UKG,https://www.feixiaohao.com/currencies/unikoin-gold/,678041.0,"https://unikrn.com/ , https://unikoingold.com/",https://discord.gg/NXkejuN,2017-11-06,7
+321,Bloom,https://coinmarketcap.com/currencies/bloomtoken/,BLT,https://www.feixiaohao.com/currencies/bloomtoken/,318805.0,https://hellobloom.io/,https://t.me/joinchat/FFWDdQ1hxqIg3jLe7zBVFQ,2018-01-05,5
+322,Datawallet,https://coinmarketcap.com/currencies/datawallet/,DXT,https://www.feixiaohao.com/currencies/datawallet/,973649.0,https://datawallet.com,https://t.me/datawallet,2018-02-10,4
+323,Humaniq,https://coinmarketcap.com/currencies/humaniq/,HMQ,https://www.feixiaohao.com/currencies/humaniq/,326723.0,https://humaniq.com/,"https://t.me/HMQtrader , https://t.me/humaniqglobalchallenge",2017-03-06,5
+324,CasinoCoin,https://coinmarketcap.com/currencies/casinocoin/,CSC,https://www.feixiaohao.com/currencies/casinocoin/,9169.45,http://casinocoin.org/,https://discordapp.com/invite/muXdVHb,,2
+325,Cofound.it,https://coinmarketcap.com/currencies/cofound-it/,CFI,https://www.feixiaohao.com/currencies/cofound-it/,581061.0,https://cofound.it/,,2017-06-20,8
+326,Neurotoken,https://coinmarketcap.com/currencies/neurotoken/,NTK,https://www.feixiaohao.com/currencies/neurotoken/,1025400.0,https://neuromation.io/,,2018-02-20,5
+327,Bitcoin Atom,https://coinmarketcap.com/currencies/bitcoin-atom/,BCA,https://www.feixiaohao.com/currencies/bitcoin-atom/,24016.3,https://bitcoinatom.io/,http://t.me/bitcoinatom,2018-01-12,3
+328,Elastic,https://coinmarketcap.com/currencies/elastic/,XEL,https://www.feixiaohao.com/currencies/elastic/,57539.6,https://www.elastic.pw/,,2017-06-24,3
+329,adToken,https://coinmarketcap.com/currencies/adtoken/,ADT,https://www.feixiaohao.com/currencies/adtoken/,553086.0,https://adtoken.com/,,2017-07-03,2
+330,Propy,https://coinmarketcap.com/currencies/propy/,PRO,https://www.feixiaohao.com/currencies/propy/,6110730.0,https://propy.com/,https://t.me/joinchat/AAAAAENZVo1O6X7rusdRWg,2017-09-20,10
+331,Hive Project,https://coinmarketcap.com/currencies/hive-project/,HVN,https://www.feixiaohao.com/currencies/hive-project/,545560.0,https://www.hive-project.net/,https://t.me/hiveprojectnet,,0
+332,ugChain,https://coinmarketcap.com/currencies/ugchain/,UGC,https://www.feixiaohao.com/currencies/ugchain/,319857.0,http://www.ugchain.com/,"https://t.me/ugChainOfficial , https://t.me/ugChainchat",2018-01-13,3
+333,SunContract,https://coinmarketcap.com/currencies/suncontract/,SNC,https://www.feixiaohao.com/currencies/suncontract/,2766230.0,https://suncontract.org/,"https://t.me/suncontract , https://t.me/joinchat/GL05EULsRTS7hxxMfXCTVw",2017-07-07,7
+334,ODEM,https://coinmarketcap.com/currencies/odem/,ODE,https://www.feixiaohao.com/currencies/odem/,72874.5,https://odem.io/,https://t.me/odem_io,2018-04-11,2
+335,Unobtanium,https://coinmarketcap.com/currencies/unobtanium/,UNO,https://www.feixiaohao.com/currencies/unobtanium/,14609.6,http://unobtanium.uno,https://t.me/unobtaniumuno,,3
+336,XTRABYTES,https://coinmarketcap.com/currencies/xtrabytes/,XBY,https://www.feixiaohao.com/currencies/xtrabytes/,19151.0,https://www.xtrabytes.global/,"https://t.me/xtrabytes_official , https://discord.xtrabytes.global/",,3
+337,COSS,https://coinmarketcap.com/currencies/coss/,COSS,https://www.feixiaohao.com/currencies/coss/,143561.0,https://coss.io/,https://t.me/myCOSS,2017-09-26,3
+338,Hexx,https://coinmarketcap.com/currencies/hexx/,HXX,https://www.feixiaohao.com/currencies/hexx/,485051.0,https://hexxcoin.net/,"https://t.me/hexxcoin_official , https://discord.gg/Nm9Cj5E",,3
+339,Zeusshield,https://coinmarketcap.com/currencies/zeusshield/,ZSC,https://www.feixiaohao.com/currencies/zeusshield/,536979.0,https://zsc.io/,,2017-10-14,4
+340,Synereo,https://coinmarketcap.com/currencies/synereo/,AMP,https://www.feixiaohao.com/currencies/synereo/,109615.0,"http://www.synereo.com/ , https://wildspark.me/",https://discordapp.com/invite/xrm56DV,2015-12-04,5
+341,StakeNet,https://coinmarketcap.com/currencies/stakenet/,XSN,https://www.feixiaohao.com/currencies/stakenet/,195488.0,https://xsncoin.io/,"https://t.me/joinchat/BdGxxw-s3b4_DdBdbChI4g , https://discord.gg/cyF5yCA",2018-04-12,2
+342,Stox,https://coinmarketcap.com/currencies/stox/,STX,https://www.feixiaohao.com/currencies/stox/,1983910.0,https://www.stox.com/,https://t.me/joinchat/DByWw0Pnq9BAy4FqPv_Lyg,2017-08-06,10
+343,iXledger,https://coinmarketcap.com/currencies/ixledger/,IXT,https://www.feixiaohao.com/currencies/ixledger/,581505.0,https://www.ixledger.com/,https://t.me/iXledger,,5
+344,PotCoin,https://coinmarketcap.com/currencies/potcoin/,POT,https://www.feixiaohao.com/currencies/potcoin/,111425.0,http://www.potcoin.com/,https://t.me/potcoin420,2014-01-21,5
+345,Bankex,https://coinmarketcap.com/currencies/bankex/,BKX,https://www.feixiaohao.com/currencies/bankex/,1224740.0,https://bankex.com/en/,https://t.me/bankex,2018-01-13,6
+346,Everex,https://coinmarketcap.com/currencies/everex/,EVX,https://www.feixiaohao.com/currencies/everex/,992352.0,https://www.everex.io/,,2017-10-11,8
+347,Bitcoin Green,https://coinmarketcap.com/currencies/bitcoin-green/,BITG,https://www.feixiaohao.com/currencies/bitcoin-green/,124607.0,https://www.savebitcoin.io/,,2018-03-23,4
+348,Bean Cash,https://coinmarketcap.com/currencies/bean-cash/,BITB,https://www.feixiaohao.com/currencies/bean-cash/,634824.0,http://beancash.org/,"https://live.beancash.org/teambean/channels/town-square , http://webchat.freenode.net/?channels=#teambean",,0
+349,AI Doctor,https://coinmarketcap.com/currencies/aidoc/,AIDOC,https://www.feixiaohao.com/currencies/aidoc/,3143070.0,http://www.aidoc.me/,"https://t.me/AidocMeEn , https://t.me/AidocMe",2018-01-10,10
+350,Decision Token,https://coinmarketcap.com/currencies/decision-token/,HST,https://www.feixiaohao.com/currencies/decision-token/,134249.0,https://horizonstate.com/,https://t.me/horizonstate,2017-11-13,5
+351,UpToken,https://coinmarketcap.com/currencies/uptoken/,UP,https://www.feixiaohao.com/currencies/uptoken/,281298.0,https://uptoken.org/,https://t.me/Uptoken,2018-03-22,2
+352,SpaceChain,https://coinmarketcap.com/currencies/spacechain/,SPC,https://www.feixiaohao.com/currencies/spacechain/,39066.3,http://spacechain.com/,,2018-01-16,4
+353,Zeepin,https://coinmarketcap.com/currencies/zeepin/,ZPT,https://www.feixiaohao.com/currencies/zeepin/,405100.0,https://www.zeepin.io/,"https://t.me/zeepin , https://t.me/ZeepinNews",2018-01-31,3
+354,Monetha,https://coinmarketcap.com/currencies/monetha/,MTH,https://www.feixiaohao.com/currencies/monetha/,433675.0,https://www.monetha.io/,https://t.me/Monethagroup,2017-09-07,9
+355,Mercury,https://coinmarketcap.com/currencies/mercury/,MER,https://www.feixiaohao.com/currencies/mercury/,945147.0,https://www.darcr.us/,,,4
+356,WhiteCoin,https://coinmarketcap.com/currencies/whitecoin/,XWC,https://www.feixiaohao.com/currencies/whitecoin/,429386.0,http://whitecoin.info/,https://discordapp.com/invite/GbpdbMt,2014-04-18,8
+357,XinFin Network,https://coinmarketcap.com/currencies/xinfin-network/,XDCE,https://www.feixiaohao.com/currencies/xinfin-network/,691373.0,https://www.xinfin.io/,https://t.me/xinfintalk,2018-04-13,5
+358,indaHash,https://coinmarketcap.com/currencies/indahash/,IDH,https://www.feixiaohao.com/currencies/indahash/,37012.7,"https://indahash.com/ , https://indahash.com/ico","https://t.me/indaHash_chat , https://t.me/indahash_news",2018-01-25,6
+359,Karma,https://coinmarketcap.com/currencies/karma/,KRM,https://www.feixiaohao.com/currencies/karma/,52819.4,https://karma.red/,"https://t.me/karmaprojecten , https://t.me/KRMKorea",2018-01-12,1
+360,ProChain,https://coinmarketcap.com/currencies/prochain/,PRA,https://www.feixiaohao.com/currencies/prochain/,16061600.0,https://chain.pro/,"https://t.me/ProChainTech , https://chain.pro/static/img/contact/weixin.jpg",2017-12-14,6
+361,Agrello,https://coinmarketcap.com/currencies/agrello-delta/,DLT,https://www.feixiaohao.com/currencies/agrello-delta/,844365.0,"https://www.agrello.org/ , https://www.agrello.io/","https://t.me/agrello , https://discord.gg/czfnP2f",2017-09-10,3
+362,Energo,https://coinmarketcap.com/currencies/energo/,TSL,https://www.feixiaohao.com/currencies/energo/,829347.0,http://www.energolabs.com/,"https://t.me/EnergoEnglishCommunity , https://open.kakao.com/o/gP0vVvB",2017-11-22,0
+363,MedicCoin,https://coinmarketcap.com/currencies/mediccoin/,MEDIC,https://www.feixiaohao.com/currencies/mediccoin/,23747.0,https://mediccoin.com/,"https://t.me/mediccoins , https://discord.gg/SjudnyK",,4
+364,Crown,https://coinmarketcap.com/currencies/crown/,CRW,https://www.feixiaohao.com/currencies/crown/,49701.2,http://crown.tech/,"https://t.me/crownplatform , https://mm.crownlab.eu/login",,6
+365,Mothership,https://coinmarketcap.com/currencies/mothership/,MSP,https://www.feixiaohao.com/currencies/mothership/,24475.3,https://mothership.cx/,"https://t.me/mothershipcx , https://discordapp.com/invite/rZGUMtc",2017-07-28,3
+366,Flash,https://coinmarketcap.com/currencies/flash/,FLASH,https://www.feixiaohao.com/currencies/flash/,8779.92,https://flashcoin.io/,https://discord.gg/2nFmMqA,2017-06-27,3
+367,HempCoin,https://coinmarketcap.com/currencies/hempcoin/,THC,https://www.feixiaohao.com/currencies/hempcoin/,64331.4,http://hempcoin.org/,,,1
+368,Alphacat,https://coinmarketcap.com/currencies/alphacat/,ACAT,https://www.feixiaohao.com/currencies/alphacat/,638342.0,https://www.alphacat.io/,https://t.me/alphacatglobal,2018-02-16,2
+369,MUSE,https://coinmarketcap.com/currencies/bitshares-music/,MUSE,https://www.feixiaohao.com/currencies/bitshares-music/,10433.8,"https://museblockchain.com/ , http://peertracks.com/",,,0
+370,LEOcoin,https://coinmarketcap.com/currencies/leocoin/,LEO,https://www.feixiaohao.com/currencies/leocoin/,1282930.0,"http://www.leocoin.org/ , http://leocoinfoundation.org/",,,4
+371,BlackCoin,https://coinmarketcap.com/currencies/blackcoin/,BLK,https://www.feixiaohao.com/currencies/blackcoin/,158867.0,http://www.blackcoin.co/,"https://t.me/blackcoin , https://gitter.im/BlackCoin_Hub",2014-02-24,11
+372,Lykke,https://coinmarketcap.com/currencies/lykke/,LKK,https://www.feixiaohao.com/currencies/lykke/,12735.4,https://lykke.com,https://telegram.me/joinchat/AEGiqkF-_dNaHMwQbRSnAg,,1
+373,Phore,https://coinmarketcap.com/currencies/phore/,PHR,https://www.feixiaohao.com/currencies/phore/,200920.0,https://phore.io/,"https://discord.gg/Aucncz5 , https://phore-project.herokuapp.com/",2017-11-08,2
+374,Fortuna,https://coinmarketcap.com/currencies/fortuna/,FOTA,https://www.feixiaohao.com/currencies/fortuna/,1133520.0,https://www.fota.top/,"https://t.me/joinchat/HLLR30itYzsgzml2cPkzCA , https://t.me/FortunaOfficial",2018-01-27,0
+375,I/O Coin,https://coinmarketcap.com/currencies/iocoin/,IOC,https://www.feixiaohao.com/currencies/iocoin/,26515.0,http://iocoin.io/,"https://t.me/joinchat/CqVqS0O3PjCTx9bfp4CwOQ , https://iocoin.slack.com/",,1
+376,Qbao,https://coinmarketcap.com/currencies/qbao/,QBT,https://www.feixiaohao.com/currencies/qbao/,2835570.0,https://qbao.fund,"https://t.me/QbaofoundationEn , https://t.me/Qbaofoundation",2017-12-03,6
+377,SHIELD,https://coinmarketcap.com/currencies/shield-xsh/,XSH,https://www.feixiaohao.com/currencies/shield-xsh/,48309.2,https://shieldcurrency.com/,https://discord.gg/kgSXKrV,2017-11-04,5
+378,DMarket,https://coinmarketcap.com/currencies/dmarket/,DMT,https://www.feixiaohao.com/currencies/dmarket/,245062.0,https://dmarket.com/,https://t.me/joinchat/CV8tCULRq_vJ2Xzu9Iopqg,2018-02-04,4
+379,Matchpool,https://coinmarketcap.com/currencies/guppy/,GUP,https://www.feixiaohao.com/currencies/guppy/,1340530.0,https://matchpool.co/,https://t.me/matchpool,2017-04-30,5
+380,Peerplays,https://coinmarketcap.com/currencies/peerplays-ppy/,PPY,https://www.feixiaohao.com/currencies/peerplays-ppy/,1513.07,http://www.peerplays.com/,https://t.me/peerplays,,1
+381,ShipChain,https://coinmarketcap.com/currencies/shipchain/,SHIP,https://www.feixiaohao.com/currencies/shipchain/,281908.0,https://www.shipchain.io/,https://t.me/shipchain,2018-03-11,4
+382,Blocktix,https://coinmarketcap.com/currencies/blocktix/,TIX,https://www.feixiaohao.com/currencies/blocktix/,1212790.0,https://blocktix.io/,https://discordapp.com/invite/4A8JW3K,2017-08-10,5
+383,Pepe Cash,https://coinmarketcap.com/currencies/pepe-cash/,PEPECASH,https://www.feixiaohao.com/currencies/pepe-cash/,21417.3,"http://rarepepedirectory.com/ , http://rarepepewallet.com",,,2
+384,Restart Energy MWAT,https://coinmarketcap.com/currencies/restart-energy-mwat/,MWAT,https://www.feixiaohao.com/currencies/restart-energy-mwat/,146363.0,https://restartenergy.io,https://t.me/RestartEnergy,2018-02-18,0
+385,Boolberry,https://coinmarketcap.com/currencies/boolberry/,BBR,https://www.feixiaohao.com/currencies/boolberry/,26113.9,http://boolberry.com/,"https://t.me/boolberry_bbr , https://t.me/boolberry",,1
+386,Sharder,https://coinmarketcap.com/currencies/sharder/,SS,https://www.feixiaohao.com/currencies/sharder/,923054.0,https://sharder.org/,https://t.me/sharder_talk,2018-05-03,5
+387,OracleChain,https://coinmarketcap.com/currencies/oraclechain/,OCT,https://www.feixiaohao.com/currencies/oraclechain/,24401.6,http://oraclechain.io/,,2017-07-26,2
+388,Omni,https://coinmarketcap.com/currencies/omni/,OMNI,https://www.feixiaohao.com/currencies/omni/,83312.1,http://www.omnilayer.org/,https://t.me/OmniLayer,2013-06-24,2
+389,Dimecoin,https://coinmarketcap.com/currencies/dimecoin/,DIME,https://www.feixiaohao.com/currencies/dimecoin/,28242.9,https://www.dimecoinnetwork.com/dime/,"https://t.me/joinchat/IDfbLUjg4fSP0Ap6h2UtiA , https://discord.gg/JqcKF4v",,5
+390,AICHAIN,https://coinmarketcap.com/currencies/aichain/,AIT,https://www.feixiaohao.com/currencies/aichain/,1885440.0,http://www.aichain.me/,https://t.me/ait_cn,2018-01-16,0
+391,Grid+,https://coinmarketcap.com/currencies/grid/,GRID,https://www.feixiaohao.com/currencies/grid/,578.355,http://gridplus.io/,,2017-11-02,3
+392,Hi Mutual Society,https://coinmarketcap.com/currencies/hi-mutual-society/,HMC,https://www.feixiaohao.com/currencies/hi-mutual-society/,1188800.0,http://hms.io/,https://t.me/hmsglobal,2018-01-31,0
+393,DIMCOIN,https://coinmarketcap.com/currencies/dimcoin/,DIM,https://www.feixiaohao.com/currencies/dimcoin/,76817.5,"https://www.dimcoin.io/ , https://dim.foundation/","https://t.me/dimcoinICO , https://t.me/dimcoin",2017-12-28,4
+394,Mooncoin,https://coinmarketcap.com/currencies/mooncoin/,MOON,https://www.feixiaohao.com/currencies/mooncoin/,17091.8,"https://www.mooncoin.eco/ , http://mooncoin.com/",,,1
+395,PRIZM,https://coinmarketcap.com/currencies/prizm/,PZM,https://www.feixiaohao.com/currencies/prizm/,26868.9,http://en.prizm.club/,https://t.me/PRIZMclub,,1
+396,Moeda Loyalty Points,https://coinmarketcap.com/currencies/moeda-loyalty-points/,MDA,https://www.feixiaohao.com/currencies/moeda-loyalty-points/,841295.0,https://moeda.in/,https://t.me/moedaproject,2017-09-12,7
+397,WeTrust,https://coinmarketcap.com/currencies/trust/,TRST,https://www.feixiaohao.com/currencies/trust/,197643.0,https://www.wetrust.io/,,2017-02-28,4
+398,DADI,https://coinmarketcap.com/currencies/dadi/,DADI,https://www.feixiaohao.com/currencies/dadi/,2120660.0,https://dadi.cloud/en,,2018-02-20,8
+399,Aurora DAO,https://coinmarketcap.com/currencies/aurora-dao/,AURA,https://www.feixiaohao.com/currencies/aurora-dao/,32895.5,https://auroradao.com,https://t.me/joinchat/FT1IVA8AWHiyUkU3adehxA,2018-01-18,2
+400,ATMChain,https://coinmarketcap.com/currencies/attention-token-of-media/,ATM,https://www.feixiaohao.com/currencies/attention-token-of-media/,192711.0,https://www.atmchain.io/,,2017-10-05,5
+401,FairCoin,https://coinmarketcap.com/currencies/faircoin/,FAIR,https://www.feixiaohao.com/currencies/faircoin/,7868.12,http://fair-coin.org/,,,1
+402,Measurable Data Token,https://coinmarketcap.com/currencies/measurable-data-token/,MDT,https://www.feixiaohao.com/currencies/measurable-data-token/,675023.0,https://www.mdt.co/,https://t.me/measurabledata,,0
+403,Selfkey,https://coinmarketcap.com/currencies/selfkey/,KEY,https://www.feixiaohao.com/currencies/selfkey/,200490.0,https://selfkey.org/,https://t.me/selfkeyfoundation,2018-01-15,3
+404,Incent,https://coinmarketcap.com/currencies/incent/,INCNT,https://www.feixiaohao.com/currencies/incent/,100650.0,https://www.incentloyalty.com/,,2017-08-02,3
+405,GridCoin,https://coinmarketcap.com/currencies/gridcoin/,GRC,https://www.feixiaohao.com/currencies/gridcoin/,54264.5,http://www.gridcoin.us/,"https://t.me/gridcoin , https://discord.gg/Bt4YHxJ",2014-10-16,2
+406,carVertical,https://coinmarketcap.com/currencies/carvertical/,CV,https://www.feixiaohao.com/currencies/carvertical/,162143.0,https://www.carvertical.com/,https://t.me/carVerticalio,2018-01-23,3
+407,Numeraire,https://coinmarketcap.com/currencies/numeraire/,NMR,https://www.feixiaohao.com/currencies/numeraire/,90249.0,https://numer.ai/,,2017-02-21,3
+408,PACcoin,https://coinmarketcap.com/currencies/paccoin/,$PAC,https://www.feixiaohao.com/currencies/paccoin/,66602.8,http://paccoin.net/,https://discord.gg/jYhzkPW,,5
+409,EchoLink,https://coinmarketcap.com/currencies/echolink/,EKO,https://www.feixiaohao.com/currencies/echolink/,723555.0,https://echolink.info/,https://t.me/EcholinkOfficial,2018-01-15,4
+410,Aphelion,https://coinmarketcap.com/currencies/aphelion/,APH,https://www.feixiaohao.com/currencies/aphelion/,122822.0,https://aphelion.org/,https://t.me/AphelionToken,2018-04-30,1
+411,Blackmoon,https://coinmarketcap.com/currencies/blackmoon/,BMC,https://www.feixiaohao.com/currencies/blackmoon/,872834.0,https://www.blackmooncrypto.com/,https://t.me/blackmooncrypto,,0
+412,Guaranteed Ethurance Token Extra,https://coinmarketcap.com/currencies/guaranteed-ethurance-token-extra/,GETX,https://www.feixiaohao.com/currencies/guaranteed-ethurance-token-extra/,111352.0,https://inschain.io,https://t.me/inschain_official,2018-03-15,1
+413,Blockport,https://coinmarketcap.com/currencies/blockport/,BPT,https://www.feixiaohao.com/currencies/blockport/,94386.6,https://www.blockport.io/,https://t.me/blockport,2018-01-25,3
+414,VeriCoin,https://coinmarketcap.com/currencies/vericoin/,VRC,https://www.feixiaohao.com/currencies/vericoin/,111905.0,http://www.vericoin.info/,,2014-05-10,7
+415,Pascal Coin,https://coinmarketcap.com/currencies/pascal-coin/,PASC,https://www.feixiaohao.com/currencies/pascal-coin/,43846.9,http://www.pascalcoin.org/,https://t.me/pascalcoin,2017-05-26,2
+416,ALQO,https://coinmarketcap.com/currencies/alqo/,ALQO,https://www.feixiaohao.com/currencies/alqo/,77240.6,https://alqo.org/,"https://discord.gg/BJYpbfs , https://t.me/alqochat",2017-11-20,3
+417,Databits,https://coinmarketcap.com/currencies/databits/,DTB,https://www.feixiaohao.com/currencies/databits/,188383.0,http://www.augmentorsgame.com/,https://t.me/augmentorsgame,2017-07-28,1
+418,Nework,https://coinmarketcap.com/currencies/nework/,NKC,https://www.feixiaohao.com/currencies/nework/,6740880.0,http://nework.pro/,"https://t.me/nework_pro , https://t.me/neworkglobal",2018-01-30,1
+419,TrueUSD,https://coinmarketcap.com/currencies/trueusd/,TUSD,https://www.feixiaohao.com/currencies/trueusd/,3896300.0,"https://www.trusttoken.com/ , https://www.trueusd.com/",https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg,,0
+420,U.CASH,https://coinmarketcap.com/currencies/ucash/,UCASH,https://www.feixiaohao.com/currencies/ucash/,67950.3,https://u.cash,https://t.me/ucash,2018-02-10,3
+421,OAX,https://coinmarketcap.com/currencies/oax/,OAX,https://www.feixiaohao.com/currencies/oax/,2204160.0,https://oax.org/,https://t.me/openanxteam,,5
+422,Diamond,https://coinmarketcap.com/currencies/diamond/,DMD,https://www.feixiaohao.com/currencies/diamond/,66475.8,http://bit.diamonds,http://dmdcoin.slack.com/,,3
+423,Radium,https://coinmarketcap.com/currencies/radium/,RADS,https://www.feixiaohao.com/currencies/radium/,162384.0,https://radiumcore.org/,https://telegram.me/RadiumOfficial,2015-05-25,4
+424,TE-FOOD,https://coinmarketcap.com/currencies/te-food/,TFD,https://www.feixiaohao.com/currencies/te-food/,167725.0,https://ico.tefoodint.com/,https://t.me/tefood,2018-03-11,4
+425,Cappasity,https://coinmarketcap.com/currencies/cappasity/,CAPP,https://www.feixiaohao.com/currencies/cappasity/,144948.0,"https://artoken.io/ , https://cappasity.com/",https://t.me/artoken,2017-12-07,3
+426,E-Dinar Coin,https://coinmarketcap.com/currencies/e-dinar-coin/,EDR,https://www.feixiaohao.com/currencies/e-dinar-coin/,54448.2,https://edinarcoin.com/,https://telegram.me/EdinarCoincrypto,,3
+427,Aeron,https://coinmarketcap.com/currencies/aeron/,ARN,https://www.feixiaohao.com/currencies/aeron/,4398060.0,https://aeron.aero/,https://t.me/aeronaero,2017-11-08,9
+428,SIBCoin,https://coinmarketcap.com/currencies/sibcoin/,SIB,https://www.feixiaohao.com/currencies/sibcoin/,52921.3,"https://sibcoin.money/ , http://sibcoin.org","https://t.me/sibcoin_ru , https://t.me/sibcoinitaly",,5
+429,Envion,https://coinmarketcap.com/currencies/envion/,EVN,https://www.feixiaohao.com/currencies/envion/,624122.0,https://www.envion.org,https://t.me/Envion,2018-02-16,3
+430,Ormeus Coin,https://coinmarketcap.com/currencies/ormeus-coin/,ORME,https://www.feixiaohao.com/currencies/ormeus-coin/,3155960.0,https://ormeuscoin.com/,,2017-09-30,5
+431,Covesting,https://coinmarketcap.com/currencies/covesting/,COV,https://www.feixiaohao.com/currencies/covesting/,66060.6,https://covesting.io/,https://t.me/covesting,2018-01-24,4
+432,Banyan Network,https://coinmarketcap.com/currencies/banyan-network/,BBN,https://www.feixiaohao.com/currencies/banyan-network/,2342850.0,http://www.banyanbbt.org,https://t.me/BBNGlobalFans,2018-03-22,3
+433,PolySwarm,https://coinmarketcap.com/currencies/polyswarm/,NCT,https://www.feixiaohao.com/currencies/polyswarm/,63587.4,https://polyswarm.io/,"https://t.me/PolySwarm , https://t.me/PolySwarmChinese",2018-04-11,4
+434,LATOKEN,https://coinmarketcap.com/currencies/latoken/,LA,https://www.feixiaohao.com/currencies/latoken/,846623.0,https://latoken.com/,https://t.me/latoken,2017-10-26,5
+435,aXpire,https://coinmarketcap.com/currencies/axpire/,AXP,https://www.feixiaohao.com/currencies/axpire/,82567.1,http://axpire.io,https://t.me/AxpireOfficial,2018-01-26,4
+436,OneRoot Network,https://coinmarketcap.com/currencies/oneroot-network/,RNT,https://www.feixiaohao.com/currencies/oneroot-network/,499417.0,https://www.oneroot.io/en,https://t.me/OneRootProject,2018-01-15,0
+437,SureRemit,https://coinmarketcap.com/currencies/sureremit/,RMT,https://www.feixiaohao.com/currencies/sureremit/,35985.7,https://token.sureremit.co/,https://t.me/sureremit/,2018-02-16,1
+438,Hacken,https://coinmarketcap.com/currencies/hacken/,HKN,https://www.feixiaohao.com/currencies/hacken/,109499.0,https://hacken.io/,https://t.me/hacken_en,2018-01-10,3
+439,Matryx,https://coinmarketcap.com/currencies/matryx/,MTX,https://www.feixiaohao.com/currencies/matryx/,264164.0,https://matryx.ai/,https://t.me/matryxai,2017-12-31,4
+440,Polybius,https://coinmarketcap.com/currencies/polybius/,PLBT,https://www.feixiaohao.com/currencies/polybius/,13353.7,https://polybius.io/,https://t.me/polybius_eng,2017-07-07,5
+441,Expanse,https://coinmarketcap.com/currencies/expanse/,EXP,https://www.feixiaohao.com/currencies/expanse/,415985.0,http://www.expanse.tech/,"https://telegram.me/ExpanseTech , http://slack.expanse.tech/",2015-09-04,6
+442,DeviantCoin,https://coinmarketcap.com/currencies/deviantcoin/,DEV,https://www.feixiaohao.com/currencies/deviantcoin/,1066600.0,https://deviantcoin.io/,"https://t.me/DeviantDEV , https://discord.gg/Gp9zMXc",2018-04-18,5
+443,Tao,https://coinmarketcap.com/currencies/tao/,XTO,https://www.feixiaohao.com/currencies/tao/,5029.11,http://tao.network/,,,1
+444,BitClave,https://coinmarketcap.com/currencies/bitclave/,CAT,https://www.feixiaohao.com/currencies/bitclave/,923543.0,https://www.bitclave.com/,https://t.me/BitClaveCommunity,2018-01-03,2
+445,MonetaryUnit,https://coinmarketcap.com/currencies/monetaryunit/,MUE,https://www.feixiaohao.com/currencies/monetaryunit/,129417.0,http://www.monetaryunit.org,https://mueslack.herokuapp.com/,,4
+446,RevolutionVR,https://coinmarketcap.com/currencies/revolutionvr/,RVR,https://www.feixiaohao.com/currencies/revolutionvr/,245689.0,"http://revolutionvr.live/ , https://thevoxel.com/","https://t.me/revolutionvr , https://discord.gg/2bJfN9c",,0
+447,FlorinCoin,https://coinmarketcap.com/currencies/florincoin/,FLO,https://www.feixiaohao.com/currencies/florincoin/,146175.0,http://flo.cash/,https://t.me/FLOblockchain,2013-06-17,2
+448,Rentberry,https://coinmarketcap.com/currencies/rentberry/,BERRY,https://www.feixiaohao.com/currencies/rentberry/,54190.0,"https://ico.rentberry.com/ , https://rentberry.com/","https://t.me/joinchat/E6YjkQ2yQwBk9WaP0q-zMQ , https://t.me/RentberryNews",2018-04-07,4
+449,SolarCoin,https://coinmarketcap.com/currencies/solarcoin/,SLR,https://www.feixiaohao.com/currencies/solarcoin/,14234.5,http://solarcoin.org/,https://solarcoin-group.slack.com/,,3
+450,Divi,https://coinmarketcap.com/currencies/divi/,DIVX,https://www.feixiaohao.com/currencies/divi/,688678.0,https://www.diviproject.org/,"https://t.me/joinchat/EAdiTQ3yZk_GkqU0IdG-Gg , https://discord.gg/qtVUx38",2017-11-26,1
+451,bitUSD,https://coinmarketcap.com/currencies/bitusd/,BITUSD,https://www.feixiaohao.com/currencies/bitusd/,1180480.0,http://bit.ly/BitShares_USD,,,1
+452,Profile Utility Token,https://coinmarketcap.com/currencies/profile-utility-token/,PUT,https://www.feixiaohao.com/currencies/profile-utility-token/,2745270.0,https://www.robin8put.org/,https://t.me/Robin8_PUT,2018-01-17,3
+453,Pareto Network,https://coinmarketcap.com/currencies/pareto-network/,PARETO,https://www.feixiaohao.com/currencies/pareto-network/,313899.0,https://pareto.network/,https://t.me/paretonetworkdiscussion,2018-02-03,4
+454,Elixir,https://coinmarketcap.com/currencies/elixir/,ELIX,https://www.feixiaohao.com/currencies/elixir/,126790.0,http://elixirtoken.io/,"https://t.me/ElixirToken , https://discordapp.com/invite/mu4EJaz",2017-09-24,6
+455,XPA,https://coinmarketcap.com/currencies/xpa/,XPA,https://www.feixiaohao.com/currencies/xpa/,12704.5,https://xpa.io/,https://t.me/joinchat/CvaXNg4T_y13oqxdix9y9w,,1
+456,LUXCoin,https://coinmarketcap.com/currencies/luxcoin/,LUX,https://www.feixiaohao.com/currencies/luxcoin/,81665.4,https://luxcore.io/,"https://t.me/LUXcoreOfficial , https://discord.gg/27xFP5Y",2017-10-28,2
+457,Maecenas,https://coinmarketcap.com/currencies/maecenas/,ART,https://www.feixiaohao.com/currencies/maecenas/,1779.15,http://www.maecenas.co/,,2017-10-19,4
+458,Titanium BAR,https://coinmarketcap.com/currencies/titanium-bar/,TBAR,https://www.feixiaohao.com/currencies/titanium-bar/,199492.0,https://www.tbis.io/,"https://t.me/TbisOfficial , https://t.me/tbisinc",2018-03-27,5
+459,Zap,https://coinmarketcap.com/currencies/zap/,ZAP,https://www.feixiaohao.com/currencies/zap/,36292.7,http://www.zap.org/,https://t.me/ZapStore,2018-01-11,3
+460,DomRaider,https://coinmarketcap.com/currencies/domraider/,DRT,https://www.feixiaohao.com/currencies/domraider/,111471.0,https://token.domraider.com/,https://t.me/DomRaider_Chat,2017-10-20,3
+461,Uquid Coin,https://coinmarketcap.com/currencies/uquid-coin/,UQC,https://www.feixiaohao.com/currencies/uquid-coin/,3797990.0,https://uquidcoin.com/,https://t.me/uquidcoin,2017-12-14,5
+462,Neumark,https://coinmarketcap.com/currencies/neumark/,NEU,https://www.feixiaohao.com/currencies/neumark/,186931.0,http://neufund.org/,https://t.me/neufund,2017-12-29,2
+463,Olympus Labs,https://coinmarketcap.com/currencies/olympus-labs/,MOT,https://www.feixiaohao.com/currencies/olympus-labs/,234320.0,https://olympuslabs.io/,"http://t.me/olympuslabs , https://open.kakao.com/o/gROlDyC",2018-01-01,0
+464,NoLimitCoin,https://coinmarketcap.com/currencies/nolimitcoin/,NLC2,https://www.feixiaohao.com/currencies/nolimitcoin/,34104.1,https://nolimitcoin.org/,"https://t.me/NoLimitCoinNLC2 , http://slack.nolimitcoin.org/",,3
+465,Bismuth,https://coinmarketcap.com/currencies/bismuth/,BIS,https://www.feixiaohao.com/currencies/bismuth/,27248.3,http://bismuth.cz/,"https://discordapp.com/invite/dKVZd4z , https://cryptobismuth.slack.com/",2017-10-02,1
+466,LoMoCoin,https://coinmarketcap.com/currencies/lomocoin/,LMC,https://www.feixiaohao.com/currencies/lomocoin/,21192.4,http://www.lomostar.com/,https://t.me/lomocoin,,4
+467,MARK.SPACE,https://coinmarketcap.com/currencies/mark-space/,MRK,https://www.feixiaohao.com/currencies/mark-space/,1039370.0,https://mark.space/,https://t.me/markspaceio,2018-04-23,3
+468,Credo,https://coinmarketcap.com/currencies/credo/,CREDO,https://www.feixiaohao.com/currencies/credo/,13110.9,https://bitbounce.com/credo,,2017-09-14,3
+469,REBL,https://coinmarketcap.com/currencies/rebl/,REBL,https://www.feixiaohao.com/currencies/rebl/,2009650.0,https://www.rebellious.io/,"https://t.me/RebelliousCoin , https://discordapp.com/invite/q4yBxct",,0
+470,Linda,https://coinmarketcap.com/currencies/linda/,LINDA,https://www.feixiaohao.com/currencies/linda/,83986.8,http://lindacoin.com/,https://discord.gg/SQR4uj4,2017-07-16,5
+471,Docademic,https://coinmarketcap.com/currencies/docademic/,MTC,https://www.feixiaohao.com/currencies/docademic/,791269.0,https://docademic.com/,https://t.me/joinchat/GWeOM0Nc_R_htbcpJha7mA,2018-05-07,3
+472,Bee Token,https://coinmarketcap.com/currencies/bee-token/,BEE,https://www.feixiaohao.com/currencies/bee-token/,31338.4,https://www.beetoken.com/,https://t.me/beetoken,2018-03-03,3
+473,Rubycoin,https://coinmarketcap.com/currencies/rubycoin/,RBY,https://www.feixiaohao.com/currencies/rubycoin/,8310.91,http://www.rubycoin.org/,https://slack.rubycoin.org/,2014-02-17,3
+474,Smartlands,https://coinmarketcap.com/currencies/smartlands/,SLT,https://www.feixiaohao.com/currencies/smartlands/,225026.0,https://smartlands.io/,https://t.me/smartlandschat,2018-01-26,2
+475,Quantum,https://coinmarketcap.com/currencies/quantum/,QAU,https://www.feixiaohao.com/currencies/quantum/,3286.02,http://www.quantumproject.org/,https://t.me/QuantumProject,,4
+476,SwissBorg,https://coinmarketcap.com/currencies/swissborg/,CHSB,https://www.feixiaohao.com/currencies/swissborg/,80314.5,https://swissborg.com/,https://t.me/SwissBorgChat,2018-02-03,6
+477,Nimiq Exchange Token,https://coinmarketcap.com/currencies/nimiq/,NET,https://www.feixiaohao.com/currencies/nimiq/,177572.0,https://nimiq.com/,https://t.me/joinchat/AAAAAEJW-ozFwo7Er9jpHw,2017-06-11,2
+478,BitSend,https://coinmarketcap.com/currencies/bitsend/,BSD,https://www.feixiaohao.com/currencies/bitsend/,71383.5,"http://www.bitsend.info/ , http://www.mybitsend.com/",,,5
+479,Lendingblock,https://coinmarketcap.com/currencies/lendingblock/,LND,https://www.feixiaohao.com/currencies/lendingblock/,170589.0,https://lendingblock.com/,https://t.me/lendingblock,2018-04-30,4
+480,Rialto,https://coinmarketcap.com/currencies/rialto/,XRL,https://www.feixiaohao.com/currencies/rialto/,5815.41,https://www.rialto.ai/,https://t.me/joinchat/AAAAAEJIJRvGtIsNu7zOvw,2017-07-16,4
+481,Flixxo,https://coinmarketcap.com/currencies/flixxo/,FLIXX,https://www.feixiaohao.com/currencies/flixxo/,613123.0,https://www.flixxo.com/,https://t.me/flixxo,2017-11-26,3
+482,B2BX,https://coinmarketcap.com/currencies/b2bx/,B2B,https://www.feixiaohao.com/currencies/b2bx/,301401.0,"https://www.b2bx.pro/ , http://b2bx.org/","https://t.me/B2BX_ICO_eng , https://open.kakao.com/o/gHLHTkC",2017-11-21,5
+483,Myriad,https://coinmarketcap.com/currencies/myriad/,XMY,https://www.feixiaohao.com/currencies/myriad/,42025.0,http://myriadcoin.org/,"https://t.me/Myriadcoinofficial , https://discord.gg/A873Xkx",,3
+484,Insights Network,https://coinmarketcap.com/currencies/insights-network/,INSTAR,https://www.feixiaohao.com/currencies/insights-network/,5570370.0,https://www.insights.network,https://t.me/InsightsNetwork,2018-03-03,5
+485,Paragon,https://coinmarketcap.com/currencies/paragon/,PRG,https://www.feixiaohao.com/currencies/paragon/,98785.3,https://paragoncoin.com/,https://t.me/joinchat/Bvx800IXuCoe-QGoLXoVlQ,2017-10-27,2
+486,Etheroll,https://coinmarketcap.com/currencies/etheroll/,DICE,https://www.feixiaohao.com/currencies/etheroll/,57230.3,"https://etheroll.com/ , https://etheroll.wordpress.com/",,,2
+487,BitDegree,https://coinmarketcap.com/currencies/bitdegree/,BDG,https://www.feixiaohao.com/currencies/bitdegree/,26737.3,https://www.bitdegree.org/,https://t.me/bitdegree,2018-01-12,5
+488,Cashaa,https://coinmarketcap.com/currencies/cashaa/,CAS,https://www.feixiaohao.com/currencies/cashaa/,58638.2,https://www.cashaa.com/,,2018-02-16,4
+489,Polis,https://coinmarketcap.com/currencies/polis/,POLIS,https://www.feixiaohao.com/currencies/polis/,75057.4,https://polispay.org/,https://discord.gg/gwhHv8U,2018-01-10,4
+490,Patientory,https://coinmarketcap.com/currencies/patientory/,PTOY,https://www.feixiaohao.com/currencies/patientory/,389136.0,"https://patientory.com/ , https://ptoy.org/",,2017-08-02,4
+491,Swarm City,https://coinmarketcap.com/currencies/swarm-city/,SWT,https://www.feixiaohao.com/currencies/swarm-city/,168031.0,http://swarm.city/,,,4
+492,NewYorkCoin,https://coinmarketcap.com/currencies/newyorkcoin/,NYC,https://www.feixiaohao.com/currencies/newyorkcoin/,24785.8,https://nycoin.community/,"https://discord.gg/euGaWRu , https://t.me/NewYorkCoinNYC",,2
+493,OKCash,https://coinmarketcap.com/currencies/okcash/,OK,https://www.feixiaohao.com/currencies/okcash/,278437.0,http://okcash.co,,2014-11-24,6
+494,Pure,https://coinmarketcap.com/currencies/pure/,PURE,https://www.feixiaohao.com/currencies/pure/,240157.0,https://purealt.org/,,2017-11-05,2
+495,CargoX,https://coinmarketcap.com/currencies/cargox/,CXO,https://www.feixiaohao.com/currencies/cargox/,113659.0,https://cargox.io/,https://t.me/joinchat/GAKhBQ48675fRRMEd-kLcw,2018-02-01,3
+496,Effect.AI,https://coinmarketcap.com/currencies/effect-ai/,EFX,https://www.feixiaohao.com/currencies/effect-ai/,61293.1,http://effect.ai/,https://t.me/effectai,2018-04-23,0
+497,Auctus,https://coinmarketcap.com/currencies/auctus/,AUC,https://www.feixiaohao.com/currencies/auctus/,273086.0,https://auctus.org/,"https://t.me/AuctusProject , https://chat.auctus.org/",2018-04-20,3
+498,Rise,https://coinmarketcap.com/currencies/rise/,RISE,https://www.feixiaohao.com/currencies/rise/,1554.08,https://rise.vision/,,2017-06-01,3
+499,Clams,https://coinmarketcap.com/currencies/clams/,CLAM,https://www.feixiaohao.com/currencies/clams/,37579.3,http://clamcoin.org/,,2017-05-25,4
+500,bitqy,https://coinmarketcap.com/currencies/bitqy/,BQ,https://www.feixiaohao.com/currencies/bitqy/,1328.4,https://bitqy.org/,,2017-08-28,1
+501,GoldCoin,https://coinmarketcap.com/currencies/goldcoin/,GLD,https://www.feixiaohao.com/currencies/goldcoin/,16792.1,https://www.goldcoin.org/,https://t.me/goldcoin,,3
+502,NeosCoin,https://coinmarketcap.com/currencies/neoscoin/,NEOS,https://www.feixiaohao.com/currencies/neoscoin/,187808.0,http://www.neoscoin.com,http://slack.neoscoin.com/,2016-07-25,2
+503,Fluz Fluz,https://coinmarketcap.com/currencies/fluz-fluz/,FLUZ,https://www.feixiaohao.com/currencies/fluz-fluz/,5469.51,"https://www.fluzfluz.com/ , https://ico.fluzfluz.com/",https://t.me/fluzfluzico,2018-03-16,4
+504,Musicoin,https://coinmarketcap.com/currencies/musicoin/,MUSIC,https://www.feixiaohao.com/currencies/musicoin/,44211.1,https://www.musicoin.org/,,,2
+505,Devery,https://coinmarketcap.com/currencies/devery/,EVE,https://www.feixiaohao.com/currencies/devery/,134759.0,https://devery.io/,https://t.me/deverychat,2018-01-25,4
+506,Debitum,https://coinmarketcap.com/currencies/debitum-network/,DEB,https://www.feixiaohao.com/currencies/debitum-network/,75743.4,https://debitum.network/,https://t.me/debitum,2018-03-14,2
+507,Energycoin,https://coinmarketcap.com/currencies/energycoin/,ENRG,https://www.feixiaohao.com/currencies/energycoin/,7070.77,https://energycoin.eu/,,,1
+508,Espers,https://coinmarketcap.com/currencies/espers/,ESP,https://www.feixiaohao.com/currencies/espers/,10065.2,"http://espers.io/ , http://cryptocoderz.com/espers.html","https://t.me/EspersCoin , https://discord.gg/hhYP8yT",,2
+509,Oxycoin,https://coinmarketcap.com/currencies/oxycoin/,OXY,https://www.feixiaohao.com/currencies/oxycoin/,24460.2,https://oxycoin.io/,http://oxycoin.slack.com/,2017-11-11,3
+510,Swarm,https://coinmarketcap.com/currencies/swarm-fund/,SWM,https://www.feixiaohao.com/currencies/swarm-fund/,5445.57,https://www.swarm.fund/,https://web.telegram.org/#/im?p=@swarmfund,2018-02-08,3
+511,Block Array,https://coinmarketcap.com/currencies/block-array/,ARY,https://www.feixiaohao.com/currencies/block-array/,45705.3,https://www.blockarray.com,https://t.me/Block_Array,2018-01-24,4
+512,Leadcoin,https://coinmarketcap.com/currencies/leadcoin/,LDC,https://www.feixiaohao.com/currencies/leadcoin/,811292.0,https://www.leadcoin.network/,https://t.me/LeadCoinNetwork,2018-03-13,2
+513,SRCOIN,https://coinmarketcap.com/currencies/srcoin/,SRCOIN,https://www.feixiaohao.com/currencies/srcoin/,569662.0,https://www.srcoin.info/,https://t.me/SRCOIN_EN,2018-04-24,1
+514,CoinFi,https://coinmarketcap.com/currencies/coinfi/,COFI,https://www.feixiaohao.com/currencies/coinfi/,295252.0,http://www.coinfi.com/,https://t.me/coinfi,2018-01-30,3
+515,Hubii Network,https://coinmarketcap.com/currencies/hubii-network/,HBT,https://www.feixiaohao.com/currencies/hubii-network/,1103.83,https://www.hubii.network/,"https://t.me/hubiinetwork , https://discord.gg/Nt35Qzt",2017-10-10,4
+516,Snovio,https://coinmarketcap.com/currencies/snovio/,SNOV,https://www.feixiaohao.com/currencies/snovio/,56663.0,"https://tokensale.snov.io/ , https://snov.io",https://t.me/snovio_ico,2017-12-09,4
+517,Dovu,https://coinmarketcap.com/currencies/dovu/,DOVU,https://www.feixiaohao.com/currencies/dovu/,3288.22,https://dovu.io/,https://t.me/dovuofficial,2017-10-28,2
+518,MktCoin,https://coinmarketcap.com/currencies/mktcoin/,MLM,https://www.feixiaohao.com/currencies/mktcoin/,61184.8,http://mktcoin.org/,,2018-02-11,2
+519,EncrypGen,https://coinmarketcap.com/currencies/encrypgen/,DNA,https://www.feixiaohao.com/currencies/encrypgen/,87757.9,https://www.encrypgen.com/,https://gene-chain.slack.com/threads/,2017-11-21,5
+520,Nexium,https://coinmarketcap.com/currencies/nexium/,NXC,https://www.feixiaohao.com/currencies/nexium/,14463.4,https://beyond-the-void.net/,https://discordapp.com/invite/tzjrWP,2016-12-19,3
+521,LockTrip,https://coinmarketcap.com/currencies/lockchain/,LOC,https://www.feixiaohao.com/currencies/lockchain/,32664.6,https://locktrip.com/,https://t.me/LockTrip,2017-12-18,5
+522,Rivetz,https://coinmarketcap.com/currencies/rivetz/,RVT,https://www.feixiaohao.com/currencies/rivetz/,49264.5,https://rivetz.com/,"https://t.me/rivetz_corp , https://discordapp.com/invite/VNrDBUV",2017-09-26,2
+523,FintruX Network,https://coinmarketcap.com/currencies/fintrux-network/,FTX,https://www.feixiaohao.com/currencies/fintrux-network/,264911.0,https://www.fintrux.com/,https://t.me/FintruX,2018-04-23,4
+524,FoldingCoin,https://coinmarketcap.com/currencies/foldingcoin/,FLDC,https://www.feixiaohao.com/currencies/foldingcoin/,56699.0,http://www.foldingcoin.net/,,2015-02-02,2
+525,ICOS,https://coinmarketcap.com/currencies/icos/,ICOS,https://www.feixiaohao.com/currencies/icos/,15167.8,"https://icos.icobox.io/ , https://t.me/icobox_en",,2017-10-24,2
+526,Target Coin,https://coinmarketcap.com/currencies/target-coin/,TGT,https://www.feixiaohao.com/currencies/target-coin/,31981.1,https://www.tgtcoins.com/,,2017-09-30,2
+527,Graft,https://coinmarketcap.com/currencies/graft/,GRFT,https://www.feixiaohao.com/currencies/graft/,220007.0,https://www.graft.network/,https://t.me/joinchat/EneBw0RALAOjkSL2mdt2Gw,2018-03-09,1
+528,Leverj,https://coinmarketcap.com/currencies/leverj/,LEV,https://www.feixiaohao.com/currencies/leverj/,6771.46,https://www.leverj.io/,https://t.me/joinchat/C-gLzkMqKr1zmoeS-ZQePg,2018-01-12,3
+529,Bounty0x,https://coinmarketcap.com/currencies/bounty0x/,BNTY,https://www.feixiaohao.com/currencies/bounty0x/,101247.0,https://bounty0x.io/,https://t.me/bounty0x,2017-12-27,5
+530,ATBCoin,https://coinmarketcap.com/currencies/atbcoin/,ATB,https://www.feixiaohao.com/currencies/atbcoin/,889175.0,https://atbcoin.com/,https://t.me/atbcoinchat,2017-09-20,6
+531,PinkCoin,https://coinmarketcap.com/currencies/pinkcoin/,PINK,https://www.feixiaohao.com/currencies/pinkcoin/,109292.0,"http://getstarted.with.pink/ , https://pinkbuffaloz.com/",http://slack.with.pink/,2016-01-18,4
+532,ATN,https://coinmarketcap.com/currencies/atn/,ATN,https://www.feixiaohao.com/currencies/atn/,160753.0,https://atn.io/,"https://t.me/ATN_Blockchain , https://t.me/ATN_Blockchain_EN",2018-01-12,4
+533,Zilla,https://coinmarketcap.com/currencies/zilla/,ZLA,https://www.feixiaohao.com/currencies/zilla/,607621.0,https://zla.io/,"https://t.me/zilla_app , https://t.me/ZILLA_Chinese",2018-02-04,0
+534,Gambit,https://coinmarketcap.com/currencies/gambit/,GAM,https://www.feixiaohao.com/currencies/gambit/,1334.47,http://www.gambitcrypto.com,,,1
+535,The ChampCoin,https://coinmarketcap.com/currencies/the-champcoin/,TCC,https://www.feixiaohao.com/currencies/the-champcoin/,19721.3,http://thechampcoin.com/,,2017-08-16,1
+536,ConnectJob,https://coinmarketcap.com/currencies/connectjob/,CJT,https://www.feixiaohao.com/currencies/connectjob/,268156.0,https://www.connectjob.io/,,2018-05-07,3
+537,Ink Protocol,https://coinmarketcap.com/currencies/ink-protocol/,XNK,https://www.feixiaohao.com/currencies/ink-protocol/,151727.0,https://paywithink.com,https://t.me/paywithink,2018-03-01,3
+538,Remme,https://coinmarketcap.com/currencies/remme/,REM,https://www.feixiaohao.com/currencies/remme/,459683.0,"https://remme.io/ , https://tokensale.remme.io/",https://t.me/remme,2018-02-27,3
+539,Chronobank,https://coinmarketcap.com/currencies/chronobank/,TIME,https://www.feixiaohao.com/currencies/chronobank/,286803.0,https://chronobank.io/,https://telegram.me/ChronoBank,2016-12-15,6
+540,JET8,https://coinmarketcap.com/currencies/jet8/,J8T,https://www.feixiaohao.com/currencies/jet8/,296308.0,https://jet8.io/,https://t.me/Jet8_ecosystem,2018-03-09,3
+541,BitConnect,https://coinmarketcap.com/currencies/bitconnect/,BCC,https://www.feixiaohao.com/currencies/bitconnect/,1355.64,"https://www.bitconnect.co/ , https://bitconnectcoin.co/",,,1
+542,Bulwark,https://coinmarketcap.com/currencies/bulwark/,BWK,https://www.feixiaohao.com/currencies/bulwark/,122054.0,https://bulwarkcrypto.com/,"https://t.me/bulwarkcrypto , https://discord.gg/a7vhegP",2017-12-09,3
+543,GoByte,https://coinmarketcap.com/currencies/gobyte/,GBX,https://www.feixiaohao.com/currencies/gobyte/,126928.0,https://gobyte.network/,https://discord.gg/mDAeFzT,2017-11-21,6
+544,Aventus,https://coinmarketcap.com/currencies/aventus/,AVT,https://www.feixiaohao.com/currencies/aventus/,76368.0,https://aventus.io/,,2017-09-07,6
+545,AidCoin,https://coinmarketcap.com/currencies/aidcoin/,AID,https://www.feixiaohao.com/currencies/aidcoin/,2149440.0,https://www.aidcoin.co/,"https://t.me/aidcoincommunity , https://t.me/aidcoin",2018-01-25,4
+546,DubaiCoin,https://coinmarketcap.com/currencies/dubaicoin-dbix/,DBIX,https://www.feixiaohao.com/currencies/dubaicoin-dbix/,40455.2,http://www.arabianchain.org/,,,3
+547,LALA World,https://coinmarketcap.com/currencies/lala-world/,LALA,https://www.feixiaohao.com/currencies/lala-world/,346379.0,https://lalaworld.io,https://t.me/LaLaWorld,2018-03-13,5
+548,Playkey,https://coinmarketcap.com/currencies/playkey/,PKT,https://www.feixiaohao.com/currencies/playkey/,335906.0,"https://playkey.io/ , https://playkey.net/",https://t.me/playkey_io,2017-12-14,3
+549,HollyWoodCoin,https://coinmarketcap.com/currencies/hollywoodcoin/,HWC,https://www.feixiaohao.com/currencies/hollywoodcoin/,98731.6,http://hollywoodcoin.us/,https://t.me/hollywoodcoin,2017-12-14,2
+550,Interplanetary Broadcast Coin,https://coinmarketcap.com/currencies/interplanetary-broadcast-coin/,IPBC,https://www.feixiaohao.com/currencies/interplanetary-broadcast-coin/,85738.9,https://ipbc.io/,https://t.me/ipbcenglish,2018-03-06,1
+551,Russian Miner Coin,https://coinmarketcap.com/currencies/russian-mining-coin/,RMC,https://www.feixiaohao.com/currencies/russian-mining-coin/,984.297,https://rmc.one/,"https://t.me/RMC_ICO , https://t.me/RMC_ENG",2017-11-01,0
+552,Aditus,https://coinmarketcap.com/currencies/aditus/,ADI,https://www.feixiaohao.com/currencies/aditus/,343848.0,https://www.aditus.net/,https://t.me/aditusnetwork,2018-04-21,4
+553,Stealth,https://coinmarketcap.com/currencies/stealth/,XST,https://www.feixiaohao.com/currencies/stealth/,4540.91,https://stealth.org/,"https://stealthsend.slack.com/ , https://t.me/stealthsend",,0
+554,IP Exchange,https://coinmarketcap.com/currencies/ip-exchange/,IPSX,https://www.feixiaohao.com/currencies/ip-exchange/,904428.0,https://ip.sx/,https://t.me/IPExchange,2018-03-28,4
+555,Golos,https://coinmarketcap.com/currencies/golos/,GOLOS,https://www.feixiaohao.com/currencies/golos/,20908.1,https://golos.io/,https://telegram.me/golos_io,,2
+556,Spectrecoin,https://coinmarketcap.com/currencies/spectrecoin/,XSPEC,https://www.feixiaohao.com/currencies/spectrecoin/,20710.7,https://spectreproject.io/,https://t.me/spectrecoin,,3
+557,Mintcoin,https://coinmarketcap.com/currencies/mintcoin/,MINT,https://www.feixiaohao.com/currencies/mintcoin/,11201.0,http://www.mintcoinofficial.com,"https://discord.gg/qpGs76t , https://t.me/joinchat/AYSXZBGdWRH6jeIX_EJijg",,3
+558,FedoraCoin,https://coinmarketcap.com/currencies/fedoracoin/,TIPS,https://www.feixiaohao.com/currencies/fedoracoin/,88859.3,https://www.tipsco.in/,https://discordapp.com/invite/3NefpcW,,2
+559,Stipend,https://coinmarketcap.com/currencies/stipend/,SPD,https://www.feixiaohao.com/currencies/stipend/,95900.3,https://stipend.me/,https://discord.gg/vmVjtcQ,2018-03-28,1
+560,Dynamic,https://coinmarketcap.com/currencies/dynamic/,DYN,https://www.feixiaohao.com/currencies/dynamic/,59034.4,https://duality.solutions/,,,2
+561,CanYaCoin,https://coinmarketcap.com/currencies/canyacoin/,CAN,https://www.feixiaohao.com/currencies/canyacoin/,83091.9,https://canya.io/,https://t.me/canyacoin,2018-01-08,4
+562,Novacoin,https://coinmarketcap.com/currencies/novacoin/,NVC,https://www.feixiaohao.com/currencies/novacoin/,9212.54,http://novacoin.org,,,4
+563,Everus,https://coinmarketcap.com/currencies/everus/,EVR,https://www.feixiaohao.com/currencies/everus/,64798.7,https://everus.org/,,2017-10-20,2
+564,InvestFeed,https://coinmarketcap.com/currencies/investfeed/,IFT,https://www.feixiaohao.com/currencies/investfeed/,16009.1,https://www.investfeed.com/,,2017-08-14,5
+565,InsurePal,https://coinmarketcap.com/currencies/insurepal/,IPL,https://www.feixiaohao.com/currencies/insurepal/,387269.0,https://insurepal.io/,https://t.me/InsurePal,2018-01-18,3
+566,Worldcore,https://coinmarketcap.com/currencies/worldcore/,WRC,https://www.feixiaohao.com/currencies/worldcore/,250804.0,https://worldcore.com/,"http://t.me/worldcore , https://worldcore.slack.com/",2017-12-18,5
+567,Sphere,https://coinmarketcap.com/currencies/sphere/,SPHR,https://www.feixiaohao.com/currencies/sphere/,81183.2,https://sphrpay.io/,,,2
+568,Waves Community Token,https://coinmarketcap.com/currencies/waves-community-token/,WCT,https://www.feixiaohao.com/currencies/waves-community-token/,933352.0,https://wavesplatform.com/,,,2
+569,Pandacoin,https://coinmarketcap.com/currencies/pandacoin-pnd/,PND,https://www.feixiaohao.com/currencies/pandacoin-pnd/,1516.1,http://digitalpandacoin.org/,https://t.me/DigitalPandacoin,,3
+570,Mysterium,https://coinmarketcap.com/currencies/mysterium/,MYST,https://www.feixiaohao.com/currencies/mysterium/,175839.0,https://mysterium.network/,"https://t.me/Mysterium_Network , https://t.me/MysteriumChineseChat",2017-06-15,4
+571,Xaurum,https://coinmarketcap.com/currencies/xaurum/,XAUR,https://www.feixiaohao.com/currencies/xaurum/,21527.5,http://www.xaurum.org/,https://t.me/XaurumAddingValue,,2
+572,Pluton,https://coinmarketcap.com/currencies/pluton/,PLU,https://www.feixiaohao.com/currencies/pluton/,5603.22,https://plutus.it/,,2016-01-04,1
+573,SportyCo,https://coinmarketcap.com/currencies/sportyco/,SPF,https://www.feixiaohao.com/currencies/sportyco/,1162040.0,https://www.sportyco.io/,https://t.me/SportyCo_official,2017-12-14,6
+574,Payfair,https://coinmarketcap.com/currencies/payfair/,PFR,https://www.feixiaohao.com/currencies/payfair/,29071.5,https://payfair.io/,https://t.me/payfair,2017-12-04,5
+575,NaPoleonX,https://coinmarketcap.com/currencies/napoleonx/,NPX,https://www.feixiaohao.com/currencies/napoleonx/,7024.22,https://napoleonx.ai/,https://t.me/napoleonx_ICO,2018-03-22,2
+576,Auroracoin,https://coinmarketcap.com/currencies/auroracoin/,AUR,https://www.feixiaohao.com/currencies/auroracoin/,13013.1,http://auroracoin.is/,,,4
+577,ToaCoin,https://coinmarketcap.com/currencies/toacoin/,TOA,https://www.feixiaohao.com/currencies/toacoin/,25239.6,http://www.toacoin.com/,"https://t.me/toacoinofficial , https://discordapp.com/invite/sRVNpZy",2017-07-25,3
+578,LIFE,https://coinmarketcap.com/currencies/life/,LIFE,https://www.feixiaohao.com/currencies/life/,76555.2,https://www.lifelabs.io/,"https://t.me/joinchat/HFVijQ3hyhyQZa6LQCE-NQ/ , https://everydaylife.slack.com/",2017-10-23,5
+579,IDEX Membership,https://coinmarketcap.com/currencies/idex-membership/,IDXM,https://www.feixiaohao.com/currencies/idex-membership/,16389.7,https://auroradao.com/tokensale/,,2018-01-18,2
+580,Linker Coin,https://coinmarketcap.com/currencies/linker-coin/,LNC,https://www.feixiaohao.com/currencies/linker-coin/,94310.0,https://www.linkercoin.com/en,,2018-04-25,0
+581,AdHive,https://coinmarketcap.com/currencies/adhive/,ADH,https://www.feixiaohao.com/currencies/adhive/,919048.0,https://adhive.tv/,"https://t.me/adhivetv , https://t.me/AdHiveNews",2018-04-18,4
+582,adbank,https://coinmarketcap.com/currencies/adbank/,ADB,https://www.feixiaohao.com/currencies/adbank/,34193.5,https://adbank.network/,https://t.me/joinchat/GPdeT0mPAe7bz36x-FSQ1w,2018-02-04,3
+583,Bitcrystals,https://coinmarketcap.com/currencies/bitcrystals/,BCY,https://www.feixiaohao.com/currencies/bitcrystals/,13797.2,http://bitcrystals.com/,,2015-06-02,3
+584,Gladius Token,https://coinmarketcap.com/currencies/gladius-token/,GLA,https://www.feixiaohao.com/currencies/gladius-token/,6926.79,https://gladius.io/,http://t.me/gladiusio,2018-02-18,4
+585,Change,https://coinmarketcap.com/currencies/change/,CAG,https://www.feixiaohao.com/currencies/change/,32985.8,https://getchange.com/,https://t.me/joinchat/GWX8HkLwpOoocINbLXfRtg,2017-10-18,5
+586,CVCoin,https://coinmarketcap.com/currencies/cvcoin/,CVCOIN,https://www.feixiaohao.com/currencies/cvcoin/,3931.44,http://crypviser.net,https://t.me/crypviser,2017-07-16,1
+587,Syndicate,https://coinmarketcap.com/currencies/syndicate/,SYNX,https://www.feixiaohao.com/currencies/syndicate/,268126.0,http://www.synx.online/,https://t.me/syndicateLTD,,4
+588,Solaris,https://coinmarketcap.com/currencies/solaris/,XLR,https://www.feixiaohao.com/currencies/solaris/,29860.6,http://solariscoin.com/,https://t.me/solariscoin,,3
+589,Curecoin,https://coinmarketcap.com/currencies/curecoin/,CURE,https://www.feixiaohao.com/currencies/curecoin/,8069.53,https://curecoin.net/,https://discord.gg/2FDg8nu,,2
+590,Circuits of Value,https://coinmarketcap.com/currencies/circuits-of-value/,COVAL,https://www.feixiaohao.com/currencies/circuits-of-value/,16058.5,"http://cov.al/ , https://emblemvault.com/",,,1
+591,CommerceBlock,https://coinmarketcap.com/currencies/commerceblock/,CBT,https://www.feixiaohao.com/currencies/commerceblock/,143663.0,https://www.commerceblock.com/,https://t.me/joinchat/Ge36IURXhKAS_6HTznUXUg,2018-04-18,4
+592,Sequence,https://coinmarketcap.com/currencies/sequence/,SEQ,https://www.feixiaohao.com/currencies/sequence/,12979.4,https://duality.solutions,,,1
+593,MyBit Token,https://coinmarketcap.com/currencies/mybit-token/,MYB,https://www.feixiaohao.com/currencies/mybit-token/,3529.49,https://mybit.io/,https://t.me/mybitio,2017-08-20,2
+594,Global Currency Reserve,https://coinmarketcap.com/currencies/global-currency-reserve/,GCR,https://www.feixiaohao.com/currencies/global-currency-reserve/,10425.5,http://gcrcoin.com/,,,1
+595,HelloGold,https://coinmarketcap.com/currencies/hellogold/,HGT,https://www.feixiaohao.com/currencies/hellogold/,1024900.0,"https://www.hellogold.org/ , https://www.hellogold.com/",https://t.me/hellogoldofficial,2017-10-13,3
+596,TransferCoin,https://coinmarketcap.com/currencies/transfercoin/,TX,https://www.feixiaohao.com/currencies/transfercoin/,160486.0,http://txproject.io/,,,5
+597,ALIS,https://coinmarketcap.com/currencies/alis/,ALIS,https://www.feixiaohao.com/currencies/alis/,11196.2,https://alismedia.jp/,"https://t.me/joinchat/EpPqE0QWIaFrG3zTewongQ , https://alis-slack.herokuapp.com/",2017-10-13,5
+598,Spectiv,https://coinmarketcap.com/currencies/signal-token/,SIG,https://www.feixiaohao.com/currencies/signal-token/,18611.6,"https://www.spectivvr.com/ , https://www.spectiv.io/",,2018-03-26,3
+599,AirToken,https://coinmarketcap.com/currencies/airtoken/,AIR,https://www.feixiaohao.com/currencies/airtoken/,101188.0,https://www.airtoken.com/,,2017-10-12,4
+600,OBITS,https://coinmarketcap.com/currencies/obits/,OBITS,https://www.feixiaohao.com/currencies/obits/,594.075,http://www.obits.io/,,,2
+601,Haven Protocol,https://coinmarketcap.com/currencies/haven-protocol/,XHV,https://www.feixiaohao.com/currencies/haven-protocol/,82628.0,https://havenprotocol.com,https://discordapp.com/invite/vWQ2GZX,2018-04-23,0
+602,Publica,https://coinmarketcap.com/currencies/publica/,PBL,https://www.feixiaohao.com/currencies/publica/,39300.8,https://publica.io/,https://t.me/publicaofficial,2017-11-24,3
+603,Kore,https://coinmarketcap.com/currencies/korecoin/,KORE,https://www.feixiaohao.com/currencies/korecoin/,47570.3,http://kore.life/,,,2
+604,TrueFlip,https://coinmarketcap.com/currencies/trueflip/,TFL,https://www.feixiaohao.com/currencies/trueflip/,263516.0,"https://trueflip.io/ , https://steemit.com/@trueflip/","https://t.me/joinchat/AAAAAELcwT-fgH2zG7xEng , https://t.me/truefliplotto",2017-08-24,2
+605,GET Protocol,https://coinmarketcap.com/currencies/get-protocol/,GET,https://www.feixiaohao.com/currencies/get-protocol/,65755.4,https://guts.tickets/,https://t.me/getprotocol,,0
+606,PeepCoin,https://coinmarketcap.com/currencies/peepcoin/,PCN,https://www.feixiaohao.com/currencies/peepcoin/,1276070.0,http://dapscoin.com/,https://t.me/dapscoin,2017-07-12,2
+607,HOQU,https://coinmarketcap.com/currencies/hoqu/,HQX,https://www.feixiaohao.com/currencies/hoqu/,30857.6,https://www.hoqu.io/,https://t.me/HOQUIO,2018-03-09,5
+608,BitStation,https://coinmarketcap.com/currencies/bitstation/,BSTN,https://www.feixiaohao.com/currencies/bitstation/,1526320.0,https://www.bitstation.co/en/,https://t.me/joinchat/HuLgZg4lZFHW8uOxwhAqlQ,2018-03-29,3
+609,Blue Protocol,https://coinmarketcap.com/currencies/ethereum-blue/,BLUE,https://www.feixiaohao.com/currencies/ethereum-blue/,7595.47,https://www.blueprotocol.com/,"https://t.me/joinchat/HBDo00IO49STMJuIwJi08g , https://t.me/BLUEFAQ",2017-10-23,4
+610,Viuly,https://coinmarketcap.com/currencies/viuly/,VIU,https://www.feixiaohao.com/currencies/viuly/,799460.0,"https://viuly.io/ , https://viuly.com/",https://t.me/ViulyOfficial,2017-11-20,7
+611,Breakout Stake,https://coinmarketcap.com/currencies/breakout-stake/,BRX,https://www.feixiaohao.com/currencies/breakout-stake/,2662.54,http://www.breakoutcoin.com/,,,2
+612,ShareX,https://coinmarketcap.com/currencies/sharex/,SEXC,https://www.feixiaohao.com/currencies/sharex/,748760.0,https://sharex.vc/,,2018-01-19,2
+613,EXRNchain,https://coinmarketcap.com/currencies/exrnchain/,EXRN,https://www.feixiaohao.com/currencies/exrnchain/,34475.1,https://exrnchain.com/,https://t.me/joinchat/G9VCdRBHfrLMp9EpG7kWRQ,2017-10-26,3
+614,Eroscoin,https://coinmarketcap.com/currencies/eroscoin/,ERO,https://www.feixiaohao.com/currencies/eroscoin/,24425.2,https://eroscoin.org/,https://t.me/eroscoinplatform,2017-12-07,4
+615,ClearCoin,https://coinmarketcap.com/currencies/clearcoin/,CLR,https://www.feixiaohao.com/currencies/clearcoin/,27486.4,https://clearcoin.co/,https://t.me/clearcoin,2018-04-03,1
+616,HEAT,https://coinmarketcap.com/currencies/heat-ledger/,HEAT,https://www.feixiaohao.com/currencies/heat-ledger/,3252.28,http://heatledger.com/,,,2
+617,ArtByte,https://coinmarketcap.com/currencies/artbyte/,ABY,https://www.feixiaohao.com/currencies/artbyte/,18703.7,https://www.artbyte.me/,,,0
+618,Spectre.ai Utility Token,https://coinmarketcap.com/currencies/spectre-utility/,SXUT,https://www.feixiaohao.com/currencies/spectre-utility/,841130.0,http://www.spectre.ai/,https://t.me/joinchat/FlBl_UORqQZo-FbiPkHikA,2018-01-12,4
+619,Tokes,https://coinmarketcap.com/currencies/tokes/,TKS,https://www.feixiaohao.com/currencies/tokes/,9019.6,https://tokesplatform.org/,https://tokes-slack.herokuapp.com/,,2
+620,EZToken,https://coinmarketcap.com/currencies/eztoken/,EZT,https://www.feixiaohao.com/currencies/eztoken/,19328.0,https://ico.ezpos.io/,https://t.me/eztokensupport,2018-03-06,1
+621,APX,https://coinmarketcap.com/currencies/apx/,APX,https://www.feixiaohao.com/currencies/apx/,1211.53,,https://t.me/apxventures,,1
+622,BitDice,https://coinmarketcap.com/currencies/bitdice/,CSNO,https://www.feixiaohao.com/currencies/bitdice/,2904.39,https://www.bitdice.me/,,2017-09-26,1
+623,ClearPoll,https://coinmarketcap.com/currencies/clearpoll/,POLL,https://www.feixiaohao.com/currencies/clearpoll/,119106.0,http://polltokens.io/,https://t.me/joinchat/GTXXzULLOaZbxN_VLu8DTw,2017-10-26,4
+624,GeoCoin,https://coinmarketcap.com/currencies/geocoin/,GEO,https://www.feixiaohao.com/currencies/geocoin/,5150.26,"http://geocoin.cash/ , http://geo.money/",https://discordapp.com/invite/HF6vEGF,,3
+625,Jiyo,https://coinmarketcap.com/currencies/jiyo/,JIYO,https://www.feixiaohao.com/currencies/jiyo/,83241.8,https://www.jiyo.io/,https://t.me/jiyochat,2017-12-06,2
+626,Global Cryptocurrency,https://coinmarketcap.com/currencies/global-cryptocurrency/,GCC,https://www.feixiaohao.com/currencies/global-cryptocurrency/,1251030.0,https://www.thegcccoin.com/,https://t.me/GCCglobalcryptocurrency,,0
+627,Universal Currency,https://coinmarketcap.com/currencies/universal-currency/,UNIT,https://www.feixiaohao.com/currencies/universal-currency/,88318.1,http://www.u-currency.com/,,,4
+628,Dether,https://coinmarketcap.com/currencies/dether/,DTH,https://www.feixiaohao.com/currencies/dether/,11182.8,https://dether.io/,https://t.me/joinchat/GkdUjUQ4jx_Apxmz2km4ww,2018-02-16,3
+629,Monoeci,https://coinmarketcap.com/currencies/monacocoin/,XMCC,https://www.feixiaohao.com/currencies/monacocoin/,7156.69,http://www.monacocoin.net/,"https://t.me/XMCCMonoeci , https://discord.gg/Hsdg3BV",2017-08-28,3
+630,FidentiaX,https://coinmarketcap.com/currencies/fidentiax/,FDX,https://www.feixiaohao.com/currencies/fidentiax/,49258.7,https://www.fidentiax.com/,https://t.me/fidentiaX,2018-01-03,3
+631,Gatcoin,https://coinmarketcap.com/currencies/gatcoin/,GAT,https://www.feixiaohao.com/currencies/gatcoin/,9529.86,https://www.gatcoin.io/,https://t.me/gatcoin,2018-01-19,5
+632,CryptoPing,https://coinmarketcap.com/currencies/cryptoping/,PING,https://www.feixiaohao.com/currencies/cryptoping/,249501.0,https://cryptoping.tech/,https://discordapp.com/invite/s4f7JHA,2017-07-04,4
+633,Dero,https://coinmarketcap.com/currencies/dero/,DERO,https://www.feixiaohao.com/currencies/dero/,86991.3,https://dero.io,https://deroproject.slack.com/,2018-04-23,1
+634,Internxt,https://coinmarketcap.com/currencies/internxt/,INXT,https://www.feixiaohao.com/currencies/internxt/,11670.9,https://internxt.com/,https://t.me/InternxtHQ,2017-10-08,5
+635,Bitcoin Plus,https://coinmarketcap.com/currencies/bitcoin-plus/,XBC,https://www.feixiaohao.com/currencies/bitcoin-plus/,129502.0,http://www.bitcoinplus.org,,2017-05-26,4
+636,Astro,https://coinmarketcap.com/currencies/astro/,ASTRO,https://www.feixiaohao.com/currencies/astro/,1667.47,https://astronaut.capital/,https://t.me/astroico,2017-11-17,3
+637,HyperStake,https://coinmarketcap.com/currencies/hyperstake/,HYP,https://www.feixiaohao.com/currencies/hyperstake/,4879.88,http://hyperstake.io/,https://hyperstake.herokuapp.com/,,3
+638,Global Jobcoin,https://coinmarketcap.com/currencies/global-jobcoin/,GJC,https://www.feixiaohao.com/currencies/global-jobcoin/,6511.75,https://www.globaljobcoin.com/,,2018-01-15,2
+639,Dotcoin,https://coinmarketcap.com/currencies/dotcoin/,DOT,https://www.feixiaohao.com/currencies/dotcoin/,28025.5,https://www.cryptopia.co.nz/,,,1
+640,Cryptopay,https://coinmarketcap.com/currencies/cryptopay/,CPAY,https://www.feixiaohao.com/currencies/cryptopay/,40602.8,"https://cryptopay.me/ , https://ico.cryptopay.me/",https://t.me/cryptopayico,2017-12-29,2
+641,Pesetacoin,https://coinmarketcap.com/currencies/pesetacoin/,PTC,https://www.feixiaohao.com/currencies/pesetacoin/,25597.1,http://pesetacoin.info/,https://t.me/joinchat/AAAAAEKf5_1-Yx1b2vYOaw,,3
+642,Pirl,https://coinmarketcap.com/currencies/pirl/,PIRL,https://www.feixiaohao.com/currencies/pirl/,110175.0,https://pirl.io/,"https://t.co/akNuU2C8OH , https://discordapp.com/invite/z4faFxD",2017-10-28,3
+643,Opus,https://coinmarketcap.com/currencies/opus/,OPT,https://www.feixiaohao.com/currencies/opus/,821.849,http://opus-foundation.org/,"https://t.me/opusfoundation , https://discordapp.com/invite/JJD5Gtz",2017-08-30,4
+644,1World,https://coinmarketcap.com/currencies/1world/,1WO,https://www.feixiaohao.com/currencies/1world/,120837.0,https://ico.1worldonline.com,https://t.me/oneworldonlineico,2018-03-22,1
+645,Memetic / PepeCoin,https://coinmarketcap.com/currencies/memetic/,MEME,https://www.feixiaohao.com/currencies/memetic/,971967.0,https://memetic.ai/,https://t.me/pepecoins,,4
+646,Education Ecosystem,https://coinmarketcap.com/currencies/education-ecosystem/,LEDU,https://www.feixiaohao.com/currencies/education-ecosystem/,716545.0,"https://tokensale.liveedu.tv/ , https://www.liveedu.tv/",https://t.me/educoins,2018-03-06,0
+647,Sether,https://coinmarketcap.com/currencies/sether/,SETH,https://www.feixiaohao.com/currencies/sether/,358892.0,"https://www.sether.io/ , https://sether.com/",https://t.me/sethergroup,2018-03-02,3
+648,Voise,https://coinmarketcap.com/currencies/voisecom/,VOISE,https://www.feixiaohao.com/currencies/voisecom/,102969.0,https://www.voise.com,https://t.me/voisecom,2017-10-03,9
+649,Monkey Project,https://coinmarketcap.com/currencies/monkey-project/,MONK,https://www.feixiaohao.com/currencies/monkey-project/,59324.4,http://monkey.community/,https://discord.gg/wTaF6qZ,2017-11-26,1
+650,Helbiz,https://coinmarketcap.com/currencies/helbiz/,HBZ,https://www.feixiaohao.com/currencies/helbiz/,2255080.0,https://www.helbizcoin.io/,https://t.me/helbiz,2018-04-29,4
+651,PoSW Coin,https://coinmarketcap.com/currencies/posw-coin/,POSW,https://www.feixiaohao.com/currencies/posw-coin/,849.708,https://posw.io/,"https://t.me/joinchat/BdGxxw-s3b4_DdBdbChI4g , https://discordapp.com/invite/cyF5yCA",,1
+652,Sumokoin,https://coinmarketcap.com/currencies/sumokoin/,SUMO,https://www.feixiaohao.com/currencies/sumokoin/,37410.4,https://www.sumokoin.org/,https://t.me/joinchat/F8RH2kPmFCnA-igHBKSCAA,,2
+653,Qwark,https://coinmarketcap.com/currencies/qwark/,QWARK,https://www.feixiaohao.com/currencies/qwark/,20330.2,http://www.qwark.io/,,,2
+654,ExclusiveCoin,https://coinmarketcap.com/currencies/exclusivecoin/,EXCL,https://www.feixiaohao.com/currencies/exclusivecoin/,16610.9,http://exclusivecoin.pw,https://excl-invite.herokuapp.com/,,3
+655,DopeCoin,https://coinmarketcap.com/currencies/dopecoin/,DOPE,https://www.feixiaohao.com/currencies/dopecoin/,14429.9,http://www.dopecoin.com/,,,2
+656,ATLANT,https://coinmarketcap.com/currencies/atlant/,ATL,https://www.feixiaohao.com/currencies/atlant/,35250.5,https://atlant.io/,https://t.me/atlant_eng,2017-11-02,4
+657,Bitmark,https://coinmarketcap.com/currencies/bitmark/,BTM,https://www.feixiaohao.com/currencies/bitmark/,113062.0,http://bitmark.io/,https://bitmark.herokuapp.com/,2014-10-13,1
+658,BitcoinZ,https://coinmarketcap.com/currencies/bitcoinz/,BTCZ,https://www.feixiaohao.com/currencies/bitcoinz/,60603.7,https://btcz.rocks/en/,"https://t.me/joinchat/CDzlaRGMvBm4P2Z76sNclQ , https://discordapp.com/invite/u3dkbFs",2017-10-13,4
+659,Terracoin,https://coinmarketcap.com/currencies/terracoin/,TRC,https://www.feixiaohao.com/currencies/terracoin/,12881.5,http://www.terracoin.info/,https://t.me/terracoin,,3
+660,NuBits,https://coinmarketcap.com/currencies/nubits/,USNBT,https://www.feixiaohao.com/currencies/nubits/,189529.0,https://www.nubits.com,https://chat.nubits.com/,,1
+661,AurumCoin,https://coinmarketcap.com/currencies/aurumcoin/,AU,https://www.feixiaohao.com/currencies/aurumcoin/,708.62,"http://www.aurumcoin.com/ , http://www.aurumcoin-au.com/",,,2
+662,EuropeCoin,https://coinmarketcap.com/currencies/europecoin/,ERC,https://www.feixiaohao.com/currencies/europecoin/,122249.0,https://www.europecoin.eu.org,,,1
+663,2GIVE,https://coinmarketcap.com/currencies/2give/,2GIVE,https://www.feixiaohao.com/currencies/2give/,45744.6,https://2give.info/,,,3
